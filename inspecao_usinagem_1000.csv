@@ -1,0 +1,1001 @@
+ID,Data,Componente,Tipo_Defeito,Material,Custo_Unitario_Defeito,Status
+1,2026-04-13,Tampa Traseira,Rebarba,Ferro Fundido,603.0799999999999,Retrabalho
+2,2026-12-15,Tampa Traseira,Trinca,Aluminio,446.95,Refugo
+3,2026-09-28,Carcaca,Acabamento,Aco,399.35,Finalizado
+4,2026-04-17,Caixa de Ligacao,Porosidade,Ferro Fundido,371.35,Refugo
+5,2026-03-13,Tampa Dianteira,Porosidade,Aluminio,106.51,Finalizado
+6,2026-07-08,Tampa Dianteira,Inclusao de Areia,Aco,153.97,Retrabalho
+7,2026-01-21,Anel Interno,Rebarba,Aluminio,480.66,Retrabalho
+8,2026-04-13,Tampa de Caixa,Porosidade,Aluminio,443.27,Finalizado
+9,2026-05-02,Tampa Dianteira,Trinca,Aluminio,376.42,Finalizado
+10,2026-08-03,Anel Externo,Rebarba,Aluminio,542.65,Finalizado
+11,2026-11-27,Tampa Dianteira,Trinca,Aco,370.8,Finalizado
+12,2026-03-29,Anel Interno,Porosidade,Aco,306.83,Retrabalho
+13,2026-04-10,Tampa Dianteira,Porosidade,Aco,237.2,Finalizado
+14,2026-12-26,Anel Externo,Inclusao de Areia,Ferro Fundido,667.25,Retrabalho
+15,2026-06-01,Carcaca,Porosidade,Aco,295.49,Finalizado
+16,2026-05-11,Tampa de Caixa,Rebarba,Aluminio,561.99,Finalizado
+17,2026-05-30,Anel Interno,Rebarba,Aco,504.69,Retrabalho
+18,2026-11-05,Carcaca,Rebarba,Aluminio,321.46,Finalizado
+19,2026-09-15,Carcaca,Inclusao de Areia,Ferro Fundido,660.74,Finalizado
+20,2026-12-10,Carcaca,Inclusao de Areia,Aluminio,726.6,Retrabalho
+21,2026-10-21,Tampa Traseira,Porosidade,Aluminio,364.5,Finalizado
+22,2026-07-11,Tampa de Caixa,Dimensional,Aluminio,548.96,Refugo
+23,2026-10-04,Caixa de Ligacao,Dimensional,Ferro Fundido,668.64,Retrabalho
+24,2026-06-10,Tampa de Caixa,Inclusao de Areia,Aco,282.31,Finalizado
+25,2026-11-10,Tampa Traseira,Porosidade,Aco,257.52,Finalizado
+26,2026-01-22,Caixa de Ligacao,Dimensional,Ferro Fundido,664.98,Finalizado
+27,2026-09-10,Tampa de Caixa,Porosidade,Aluminio,421.33,Finalizado
+28,2026-08-24,Carcaca,Porosidade,Aco,313.81,Finalizado
+29,2026-12-11,Anel Interno,Porosidade,Ferro Fundido,173.26,Finalizado
+30,2026-02-18,Caixa de Ligacao,Acabamento,Aco,360.55,Refugo
+31,2026-02-28,Anel Externo,Rebarba,Ferro Fundido,661.59,Retrabalho
+32,2026-06-19,Anel Externo,Porosidade,Aluminio,514.34,Retrabalho
+33,2026-07-07,Tampa Dianteira,Acabamento,Aco,421.72,Retrabalho
+34,2026-09-28,Caixa de Ligacao,Inclusao de Areia,Ferro Fundido,226.51,Finalizado
+35,2026-07-09,Anel Interno,Dimensional,Aco,189.83,Refugo
+36,2026-06-24,Tampa Traseira,Rebarba,Aco,531.53,Retrabalho
+37,2026-02-20,Carcaca,Dimensional,Aco,350.53999999999996,Retrabalho
+38,2026-12-30,Tampa Dianteira,Rebarba,Aco,203.14,Finalizado
+39,2026-02-24,Anel Externo,Dimensional,Ferro Fundido,221.28,Finalizado
+40,2026-09-01,Tampa Traseira,Rebarba,Aluminio,421.86,Finalizado
+41,2026-11-16,Tampa Traseira,Dimensional,Ferro Fundido,669.19,Finalizado
+42,2026-05-11,Carcaca,Dimensional,Ferro Fundido,497.93,Finalizado
+43,2026-11-03,Caixa de Ligacao,Dimensional,Ferro Fundido,411.47,Finalizado
+44,2026-05-15,Anel Externo,Dimensional,Aluminio,398.89,Refugo
+45,2026-01-21,Anel Interno,Inclusao de Areia,Aco,599.71,Finalizado
+46,2026-11-25,Tampa Traseira,Porosidade,Aco,107.64,Finalizado
+47,2026-06-16,Carcaca,Trinca,Aco,524.21,Finalizado
+48,2026-10-01,Anel Interno,Acabamento,Aluminio,261.82,Finalizado
+49,2026-03-30,Caixa de Ligacao,Trinca,Aco,526.2,Finalizado
+50,2026-11-12,Anel Externo,Trinca,Aluminio,311.78,Finalizado
+51,2026-01-14,Caixa de Ligacao,Rebarba,Aco,111.04,Finalizado
+52,2026-08-30,Tampa Traseira,Porosidade,Aco,398.93,Retrabalho
+53,2026-09-22,Anel Interno,Rebarba,Ferro Fundido,573.9300000000001,Finalizado
+54,2026-12-12,Anel Interno,Porosidade,Aluminio,51.58,Retrabalho
+55,2026-02-22,Anel Interno,Porosidade,Ferro Fundido,622.43,Finalizado
+56,2026-12-06,Tampa Traseira,Dimensional,Ferro Fundido,252.31,Finalizado
+57,2026-04-02,Tampa Traseira,Inclusao de Areia,Ferro Fundido,453.64,Refugo
+58,2026-09-21,Caixa de Ligacao,Dimensional,Aluminio,278.69,Finalizado
+59,2026-02-04,Tampa Dianteira,Inclusao de Areia,Aluminio,445.81,Retrabalho
+60,2026-07-25,Caixa de Ligacao,Rebarba,Aco,254.14,Finalizado
+61,2026-03-22,Anel Externo,Inclusao de Areia,Ferro Fundido,628.37,Retrabalho
+62,2026-02-19,Carcaca,Rebarba,Aco,651.77,Finalizado
+63,2026-12-26,Anel Interno,Trinca,Ferro Fundido,506.24,Refugo
+64,2026-01-02,Tampa Dianteira,Trinca,Aluminio,487.93,Finalizado
+65,2026-02-23,Carcaca,Inclusao de Areia,Aluminio,664.71,Retrabalho
+66,2026-04-16,Tampa Dianteira,Inclusao de Areia,Aluminio,69.77,Finalizado
+67,2026-09-17,Tampa de Caixa,Rebarba,Ferro Fundido,367.1,Finalizado
+68,2026-11-06,Caixa de Ligacao,Dimensional,Aluminio,561.94,Finalizado
+69,2026-07-10,Tampa Traseira,Rebarba,Ferro Fundido,219.15,Finalizado
+70,2026-08-06,Anel Interno,Dimensional,Aco,455.4,Finalizado
+71,2026-02-13,Caixa de Ligacao,Trinca,Ferro Fundido,686.03,Retrabalho
+72,2026-06-11,Carcaca,Porosidade,Aco,278.71,Retrabalho
+73,2026-07-21,Tampa de Caixa,Inclusao de Areia,Ferro Fundido,525.21,Retrabalho
+74,2026-09-27,Tampa de Caixa,Dimensional,Aco,307.48,Finalizado
+75,2026-12-17,Tampa de Caixa,Rebarba,Aluminio,368.55,Finalizado
+76,2026-10-31,Carcaca,Trinca,Aco,296.94,Refugo
+77,2026-09-28,Carcaca,Dimensional,Aluminio,273.65,Finalizado
+78,2026-08-03,Carcaca,Rebarba,Aluminio,616.78,Finalizado
+79,2026-09-09,Carcaca,Inclusao de Areia,Aco,702.8199999999999,Finalizado
+80,2026-07-09,Tampa de Caixa,Inclusao de Areia,Ferro Fundido,580.11,Refugo
+81,2026-10-23,Tampa de Caixa,Acabamento,Ferro Fundido,449.09,Refugo
+82,2026-08-01,Tampa Dianteira,Porosidade,Ferro Fundido,204.93,Finalizado
+83,2026-07-27,Caixa de Ligacao,Acabamento,Ferro Fundido,528.4200000000001,Finalizado
+84,2026-08-25,Anel Interno,Trinca,Ferro Fundido,283.03999999999996,Retrabalho
+85,2026-12-04,Tampa Traseira,Dimensional,Aluminio,551.09,Finalizado
+86,2026-02-22,Tampa de Caixa,Trinca,Ferro Fundido,611.05,Finalizado
+87,2026-10-07,Tampa Traseira,Rebarba,Aluminio,440.16,Finalizado
+88,2026-08-05,Caixa de Ligacao,Inclusao de Areia,Aluminio,571.87,Finalizado
+89,2026-09-09,Caixa de Ligacao,Acabamento,Aluminio,67.28,Retrabalho
+90,2026-07-07,Tampa Traseira,Acabamento,Aco,454.91,Retrabalho
+91,2026-02-10,Tampa de Caixa,Acabamento,Aco,231.63,Finalizado
+92,2026-06-06,Tampa Traseira,Trinca,Aluminio,548.34,Retrabalho
+93,2026-01-15,Tampa Dianteira,Inclusao de Areia,Aco,196.67,Refugo
+94,2026-10-28,Anel Externo,Dimensional,Ferro Fundido,548.6700000000001,Retrabalho
+95,2026-03-06,Tampa de Caixa,Rebarba,Ferro Fundido,632.71,Retrabalho
+96,2026-12-11,Tampa de Caixa,Dimensional,Aluminio,72.91,Retrabalho
+97,2026-11-23,Anel Interno,Trinca,Ferro Fundido,368.71,Retrabalho
+98,2026-01-09,Carcaca,Rebarba,Aluminio,669.27,Retrabalho
+99,2026-12-10,Anel Externo,Acabamento,Aluminio,300.21,Refugo
+100,2026-05-09,Caixa de Ligacao,Porosidade,Ferro Fundido,296.99,Finalizado
+101,2026-05-16,Tampa de Caixa,Trinca,Aco,170.89,Finalizado
+102,2026-03-04,Tampa Traseira,Trinca,Ferro Fundido,222.34,Finalizado
+103,2026-05-19,Anel Externo,Inclusao de Areia,Ferro Fundido,621.42,Refugo
+104,2026-03-22,Anel Interno,Dimensional,Aluminio,366.45,Retrabalho
+105,2026-06-12,Caixa de Ligacao,Trinca,Aluminio,92.01,Finalizado
+106,2026-10-16,Carcaca,Trinca,Aluminio,460.42,Finalizado
+107,2026-09-18,Carcaca,Acabamento,Aluminio,452.25,Finalizado
+108,2026-08-19,Anel Interno,Acabamento,Aco,149.96,Retrabalho
+109,2026-02-10,Anel Interno,Rebarba,Aco,289.53,Finalizado
+110,2026-01-28,Tampa Traseira,Porosidade,Aco,232.65,Retrabalho
+111,2026-05-15,Tampa de Caixa,Inclusao de Areia,Aluminio,237.99,Retrabalho
+112,2026-07-20,Carcaca,Porosidade,Aluminio,656.46,Finalizado
+113,2026-11-24,Caixa de Ligacao,Rebarba,Aluminio,172.79,Finalizado
+114,2026-09-25,Anel Externo,Acabamento,Aco,403.02,Retrabalho
+115,2026-02-02,Caixa de Ligacao,Dimensional,Aluminio,363.86,Retrabalho
+116,2026-02-17,Tampa Dianteira,Acabamento,Ferro Fundido,462.45,Finalizado
+117,2026-03-03,Tampa Dianteira,Inclusao de Areia,Ferro Fundido,514.65,Retrabalho
+118,2026-08-04,Anel Interno,Acabamento,Aluminio,351.61,Refugo
+119,2026-10-20,Tampa Traseira,Inclusao de Areia,Ferro Fundido,633.59,Retrabalho
+120,2026-04-09,Tampa Dianteira,Inclusao de Areia,Ferro Fundido,521.5699999999999,Finalizado
+121,2026-06-21,Carcaca,Inclusao de Areia,Aco,550.8299999999999,Refugo
+122,2026-12-26,Caixa de Ligacao,Rebarba,Aluminio,506.37,Finalizado
+123,2026-08-02,Caixa de Ligacao,Inclusao de Areia,Aluminio,383.38,Finalizado
+124,2026-02-04,Anel Interno,Inclusao de Areia,Aco,210.13,Finalizado
+125,2026-08-15,Tampa de Caixa,Dimensional,Ferro Fundido,263.9,Finalizado
+126,2026-04-11,Tampa de Caixa,Porosidade,Ferro Fundido,233.78,Retrabalho
+127,2026-05-11,Anel Externo,Trinca,Aluminio,544.7,Refugo
+128,2026-09-14,Anel Interno,Porosidade,Ferro Fundido,540.5699999999999,Refugo
+129,2026-01-05,Anel Externo,Inclusao de Areia,Aco,565.56,Retrabalho
+130,2026-08-06,Tampa de Caixa,Dimensional,Aco,381.81,Finalizado
+131,2026-09-12,Anel Interno,Acabamento,Aluminio,310.37,Retrabalho
+132,2026-12-25,Anel Interno,Dimensional,Aco,82.84,Retrabalho
+133,2026-10-10,Anel Interno,Inclusao de Areia,Aco,419.4,Retrabalho
+134,2026-07-26,Tampa de Caixa,Dimensional,Aluminio,370.21,Finalizado
+135,2026-01-15,Anel Externo,Dimensional,Aco,594.61,Refugo
+136,2026-12-12,Anel Externo,Inclusao de Areia,Aco,181.54,Refugo
+137,2026-02-11,Anel Interno,Rebarba,Aco,341.91,Refugo
+138,2026-06-28,Tampa Dianteira,Dimensional,Ferro Fundido,508.03,Finalizado
+139,2026-03-04,Tampa Traseira,Trinca,Aluminio,404.53,Finalizado
+140,2026-12-18,Tampa de Caixa,Trinca,Aluminio,358.71,Retrabalho
+141,2026-08-19,Tampa Traseira,Dimensional,Aluminio,477.31,Refugo
+142,2026-08-29,Tampa Traseira,Rebarba,Ferro Fundido,262.74,Retrabalho
+143,2026-02-21,Anel Externo,Acabamento,Ferro Fundido,549.0899999999999,Refugo
+144,2026-04-06,Anel Externo,Inclusao de Areia,Aluminio,390.85,Finalizado
+145,2026-08-10,Tampa Dianteira,Trinca,Ferro Fundido,642.84,Finalizado
+146,2026-08-19,Tampa Traseira,Acabamento,Aluminio,515.96,Retrabalho
+147,2026-08-25,Tampa Traseira,Dimensional,Ferro Fundido,323.33000000000004,Finalizado
+148,2026-05-23,Anel Interno,Acabamento,Aco,201.93,Retrabalho
+149,2026-06-20,Anel Externo,Porosidade,Aco,589.91,Finalizado
+150,2026-01-29,Tampa Traseira,Trinca,Aluminio,340.0,Finalizado
+151,2026-02-05,Caixa de Ligacao,Dimensional,Ferro Fundido,648.53,Retrabalho
+152,2026-01-13,Tampa Dianteira,Inclusao de Areia,Ferro Fundido,240.13,Finalizado
+153,2026-06-09,Caixa de Ligacao,Rebarba,Aco,403.55,Retrabalho
+154,2026-11-23,Caixa de Ligacao,Dimensional,Aco,495.42,Retrabalho
+155,2026-07-06,Tampa de Caixa,Inclusao de Areia,Ferro Fundido,671.07,Refugo
+156,2026-08-31,Tampa de Caixa,Rebarba,Ferro Fundido,335.53999999999996,Retrabalho
+157,2026-03-27,Tampa Dianteira,Rebarba,Ferro Fundido,548.74,Finalizado
+158,2026-10-11,Caixa de Ligacao,Dimensional,Ferro Fundido,446.35,Finalizado
+159,2026-03-07,Tampa Traseira,Acabamento,Ferro Fundido,183.35,Finalizado
+160,2026-06-19,Anel Externo,Acabamento,Ferro Fundido,529.5,Finalizado
+161,2026-02-14,Tampa Dianteira,Rebarba,Aluminio,429.55,Finalizado
+162,2026-03-03,Anel Interno,Acabamento,Ferro Fundido,661.83,Refugo
+163,2026-05-14,Caixa de Ligacao,Porosidade,Aco,323.52,Retrabalho
+164,2026-10-11,Tampa Dianteira,Rebarba,Aluminio,176.64,Refugo
+165,2026-01-28,Carcaca,Rebarba,Ferro Fundido,374.51,Finalizado
+166,2026-04-18,Carcaca,Inclusao de Areia,Aco,478.6,Finalizado
+167,2026-02-13,Tampa de Caixa,Acabamento,Aluminio,216.05,Refugo
+168,2026-12-06,Anel Externo,Rebarba,Aco,468.6,Finalizado
+169,2026-10-13,Tampa Traseira,Porosidade,Ferro Fundido,344.85,Finalizado
+170,2026-11-27,Anel Externo,Inclusao de Areia,Ferro Fundido,671.99,Finalizado
+171,2026-05-08,Anel Externo,Dimensional,Ferro Fundido,679.27,Retrabalho
+172,2026-12-14,Anel Externo,Rebarba,Ferro Fundido,491.5,Retrabalho
+173,2026-08-19,Anel Externo,Porosidade,Aluminio,560.76,Refugo
+174,2026-07-09,Anel Interno,Trinca,Aluminio,468.47,Retrabalho
+175,2026-08-13,Anel Interno,Porosidade,Aco,350.77,Refugo
+176,2026-10-10,Tampa de Caixa,Porosidade,Ferro Fundido,249.17,Finalizado
+177,2026-05-01,Tampa Dianteira,Inclusao de Areia,Aco,302.23,Refugo
+178,2026-04-26,Carcaca,Dimensional,Aluminio,558.48,Finalizado
+179,2026-08-21,Anel Externo,Trinca,Ferro Fundido,625.18,Finalizado
+180,2026-09-16,Tampa de Caixa,Acabamento,Ferro Fundido,414.73,Finalizado
+181,2026-12-25,Tampa Dianteira,Acabamento,Aluminio,543.72,Retrabalho
+182,2026-07-17,Carcaca,Porosidade,Aluminio,620.89,Finalizado
+183,2026-05-17,Caixa de Ligacao,Inclusao de Areia,Aluminio,125.35,Finalizado
+184,2026-11-14,Tampa Traseira,Inclusao de Areia,Aluminio,597.24,Refugo
+185,2026-06-14,Anel Interno,Acabamento,Aluminio,339.98,Retrabalho
+186,2026-08-13,Caixa de Ligacao,Trinca,Ferro Fundido,365.52,Finalizado
+187,2026-11-03,Carcaca,Dimensional,Aluminio,612.51,Refugo
+188,2026-08-22,Caixa de Ligacao,Trinca,Ferro Fundido,209.89,Refugo
+189,2026-06-21,Tampa Traseira,Rebarba,Ferro Fundido,500.1,Retrabalho
+190,2026-06-01,Tampa de Caixa,Rebarba,Aluminio,324.03,Refugo
+191,2026-11-11,Carcaca,Dimensional,Aluminio,473.67,Finalizado
+192,2026-06-09,Caixa de Ligacao,Acabamento,Ferro Fundido,674.16,Retrabalho
+193,2026-04-06,Anel Interno,Dimensional,Aluminio,337.4,Finalizado
+194,2026-08-21,Anel Interno,Inclusao de Areia,Aluminio,170.51,Finalizado
+195,2026-06-29,Tampa Dianteira,Rebarba,Aluminio,302.43,Finalizado
+196,2026-04-23,Caixa de Ligacao,Porosidade,Aco,555.66,Finalizado
+197,2026-11-14,Anel Externo,Porosidade,Ferro Fundido,246.85,Finalizado
+198,2026-02-21,Caixa de Ligacao,Acabamento,Aco,167.68,Retrabalho
+199,2026-09-25,Tampa de Caixa,Inclusao de Areia,Aluminio,57.17,Finalizado
+200,2026-10-22,Carcaca,Trinca,Aco,257.8,Finalizado
+201,2026-04-23,Carcaca,Inclusao de Areia,Aluminio,706.1700000000001,Finalizado
+202,2026-04-11,Tampa de Caixa,Porosidade,Aco,452.67,Finalizado
+203,2026-04-23,Caixa de Ligacao,Porosidade,Aluminio,245.27,Retrabalho
+204,2026-03-22,Tampa de Caixa,Rebarba,Aco,434.07,Retrabalho
+205,2026-07-06,Tampa Traseira,Inclusao de Areia,Aco,267.36,Finalizado
+206,2026-04-23,Tampa de Caixa,Inclusao de Areia,Aco,574.09,Refugo
+207,2026-01-02,Anel Interno,Porosidade,Ferro Fundido,681.88,Finalizado
+208,2026-05-10,Tampa de Caixa,Trinca,Aco,266.04,Retrabalho
+209,2026-08-08,Carcaca,Acabamento,Ferro Fundido,819.82,Refugo
+210,2026-02-23,Anel Interno,Acabamento,Aluminio,475.2,Refugo
+211,2026-12-09,Carcaca,Inclusao de Areia,Aco,420.5,Refugo
+212,2026-08-12,Tampa Dianteira,Acabamento,Aluminio,177.62,Finalizado
+213,2026-08-13,Anel Externo,Porosidade,Aluminio,302.03,Retrabalho
+214,2026-05-06,Carcaca,Porosidade,Aco,679.74,Finalizado
+215,2026-05-10,Anel Interno,Inclusao de Areia,Ferro Fundido,678.09,Finalizado
+216,2026-02-22,Tampa Dianteira,Inclusao de Areia,Aco,469.97,Refugo
+217,2026-06-21,Carcaca,Rebarba,Aluminio,720.36,Finalizado
+218,2026-08-06,Tampa Traseira,Inclusao de Areia,Aluminio,381.69,Finalizado
+219,2026-06-09,Tampa de Caixa,Trinca,Aco,509.47,Finalizado
+220,2026-07-17,Anel Externo,Acabamento,Ferro Fundido,581.4300000000001,Refugo
+221,2026-09-04,Carcaca,Inclusao de Areia,Ferro Fundido,557.3399999999999,Finalizado
+222,2026-11-20,Tampa Dianteira,Dimensional,Aluminio,353.59,Finalizado
+223,2026-07-22,Tampa Traseira,Rebarba,Aluminio,492.61,Refugo
+224,2026-07-03,Caixa de Ligacao,Dimensional,Ferro Fundido,175.32999999999998,Refugo
+225,2026-05-03,Tampa Dianteira,Porosidade,Aco,494.44,Finalizado
+226,2026-09-12,Tampa de Caixa,Acabamento,Aluminio,147.84,Refugo
+227,2026-10-21,Tampa Dianteira,Inclusao de Areia,Ferro Fundido,433.08,Finalizado
+228,2026-10-07,Tampa Traseira,Dimensional,Aluminio,494.55,Retrabalho
+229,2026-11-21,Tampa Dianteira,Acabamento,Aco,189.6,Finalizado
+230,2026-04-08,Tampa Traseira,Porosidade,Ferro Fundido,285.19,Finalizado
+231,2026-07-17,Carcaca,Trinca,Aluminio,471.52,Refugo
+232,2026-08-28,Tampa Traseira,Rebarba,Aco,542.05,Refugo
+233,2026-05-24,Tampa Traseira,Acabamento,Aluminio,50.24,Finalizado
+234,2026-04-07,Anel Externo,Acabamento,Aco,545.76,Finalizado
+235,2026-07-20,Tampa Traseira,Trinca,Aco,134.59,Finalizado
+236,2026-05-04,Tampa Traseira,Acabamento,Ferro Fundido,694.55,Retrabalho
+237,2026-07-06,Caixa de Ligacao,Porosidade,Aco,575.17,Retrabalho
+238,2026-11-22,Carcaca,Porosidade,Aluminio,522.0699999999999,Refugo
+239,2026-12-15,Tampa de Caixa,Trinca,Aco,332.0,Finalizado
+240,2026-09-16,Anel Externo,Rebarba,Aco,314.85,Refugo
+241,2026-05-28,Caixa de Ligacao,Inclusao de Areia,Ferro Fundido,499.49,Retrabalho
+242,2026-09-09,Anel Interno,Dimensional,Aco,99.9,Finalizado
+243,2026-12-12,Carcaca,Inclusao de Areia,Aco,267.94,Finalizado
+244,2026-05-27,Carcaca,Acabamento,Aluminio,281.74,Retrabalho
+245,2026-05-28,Anel Interno,Dimensional,Ferro Fundido,394.4,Retrabalho
+246,2026-12-18,Tampa de Caixa,Trinca,Ferro Fundido,301.55,Finalizado
+247,2026-07-18,Tampa Traseira,Trinca,Ferro Fundido,492.12,Finalizado
+248,2026-11-04,Caixa de Ligacao,Rebarba,Aco,595.84,Retrabalho
+249,2026-05-08,Tampa Dianteira,Dimensional,Ferro Fundido,362.48,Finalizado
+250,2026-02-08,Anel Externo,Porosidade,Aco,365.61,Finalizado
+251,2026-12-04,Tampa Dianteira,Dimensional,Aco,278.58,Retrabalho
+252,2026-12-26,Anel Interno,Acabamento,Aluminio,516.0,Retrabalho
+253,2026-05-09,Carcaca,Porosidade,Aluminio,746.23,Finalizado
+254,2026-09-24,Tampa de Caixa,Trinca,Aluminio,532.55,Finalizado
+255,2026-05-31,Carcaca,Dimensional,Aluminio,785.9,Refugo
+256,2026-10-25,Anel Externo,Inclusao de Areia,Aluminio,65.14,Finalizado
+257,2026-04-09,Carcaca,Rebarba,Aco,711.9,Finalizado
+258,2026-09-20,Carcaca,Inclusao de Areia,Aco,663.47,Retrabalho
+259,2026-09-09,Anel Externo,Rebarba,Ferro Fundido,275.78,Finalizado
+260,2026-05-24,Caixa de Ligacao,Acabamento,Aco,575.98,Finalizado
+261,2026-12-12,Caixa de Ligacao,Inclusao de Areia,Aco,131.5,Refugo
+262,2026-04-22,Anel Externo,Dimensional,Aluminio,423.75,Retrabalho
+263,2026-03-01,Tampa de Caixa,Dimensional,Aco,173.69,Retrabalho
+264,2026-01-02,Anel Interno,Inclusao de Areia,Aluminio,287.26,Finalizado
+265,2026-10-31,Carcaca,Dimensional,Ferro Fundido,745.54,Finalizado
+266,2026-09-11,Tampa de Caixa,Acabamento,Ferro Fundido,459.83,Retrabalho
+267,2026-05-20,Carcaca,Porosidade,Aco,485.13,Finalizado
+268,2026-02-06,Anel Interno,Acabamento,Ferro Fundido,329.49,Finalizado
+269,2026-06-09,Caixa de Ligacao,Rebarba,Aco,511.81,Finalizado
+270,2026-01-09,Tampa de Caixa,Acabamento,Ferro Fundido,229.1,Retrabalho
+271,2026-08-21,Tampa Traseira,Rebarba,Aluminio,286.56,Retrabalho
+272,2026-04-09,Tampa Traseira,Dimensional,Aluminio,547.07,Retrabalho
+273,2026-05-27,Tampa Traseira,Porosidade,Aluminio,515.22,Finalizado
+274,2026-10-31,Caixa de Ligacao,Dimensional,Aluminio,270.52,Refugo
+275,2026-07-27,Caixa de Ligacao,Trinca,Aco,469.71,Finalizado
+276,2026-05-11,Anel Interno,Dimensional,Ferro Fundido,602.74,Refugo
+277,2026-06-01,Carcaca,Rebarba,Aco,738.89,Retrabalho
+278,2026-02-23,Anel Interno,Dimensional,Aluminio,349.48,Finalizado
+279,2026-04-30,Anel Interno,Dimensional,Aco,162.45,Finalizado
+280,2026-06-10,Caixa de Ligacao,Porosidade,Ferro Fundido,290.41999999999996,Refugo
+281,2026-04-26,Tampa Traseira,Dimensional,Aco,212.63,Retrabalho
+282,2026-03-16,Tampa Dianteira,Porosidade,Ferro Fundido,476.59,Finalizado
+283,2026-04-23,Carcaca,Inclusao de Areia,Aco,268.05,Retrabalho
+284,2026-04-14,Caixa de Ligacao,Trinca,Ferro Fundido,499.82,Retrabalho
+285,2026-12-06,Tampa Traseira,Porosidade,Ferro Fundido,350.39,Finalizado
+286,2026-09-11,Tampa de Caixa,Rebarba,Aluminio,212.38,Refugo
+287,2026-08-15,Tampa Dianteira,Inclusao de Areia,Ferro Fundido,633.72,Retrabalho
+288,2026-04-22,Tampa Dianteira,Porosidade,Aluminio,303.0,Retrabalho
+289,2026-04-09,Caixa de Ligacao,Porosidade,Aluminio,102.28,Retrabalho
+290,2026-06-02,Anel Externo,Trinca,Aluminio,504.71,Retrabalho
+291,2026-12-15,Carcaca,Rebarba,Aco,276.2,Refugo
+292,2026-12-04,Tampa Dianteira,Acabamento,Aco,449.71,Retrabalho
+293,2026-07-13,Caixa de Ligacao,Acabamento,Aco,475.65,Refugo
+294,2026-11-06,Caixa de Ligacao,Porosidade,Aco,243.93,Finalizado
+295,2026-06-12,Tampa Traseira,Dimensional,Ferro Fundido,603.63,Retrabalho
+296,2026-07-27,Tampa de Caixa,Rebarba,Ferro Fundido,433.61,Retrabalho
+297,2026-06-18,Anel Externo,Inclusao de Areia,Aco,304.81,Finalizado
+298,2026-06-10,Carcaca,Dimensional,Ferro Fundido,374.97,Finalizado
+299,2026-03-09,Anel Interno,Dimensional,Ferro Fundido,309.52,Refugo
+300,2026-10-16,Tampa de Caixa,Rebarba,Aluminio,562.06,Finalizado
+301,2026-10-04,Tampa de Caixa,Porosidade,Aluminio,265.5,Retrabalho
+302,2026-10-31,Tampa Traseira,Porosidade,Aluminio,350.69,Refugo
+303,2026-05-15,Tampa Dianteira,Porosidade,Aluminio,342.61,Finalizado
+304,2026-07-14,Tampa Dianteira,Porosidade,Ferro Fundido,474.74,Finalizado
+305,2026-05-08,Tampa Traseira,Acabamento,Aco,83.73,Retrabalho
+306,2026-02-02,Caixa de Ligacao,Porosidade,Ferro Fundido,349.2,Retrabalho
+307,2026-06-25,Tampa Dianteira,Acabamento,Ferro Fundido,547.72,Finalizado
+308,2026-01-22,Anel Externo,Acabamento,Ferro Fundido,260.31,Retrabalho
+309,2026-08-26,Carcaca,Porosidade,Aluminio,361.97,Finalizado
+310,2026-06-07,Tampa de Caixa,Trinca,Aluminio,55.55,Retrabalho
+311,2026-02-07,Tampa de Caixa,Inclusao de Areia,Aluminio,290.62,Finalizado
+312,2026-08-18,Anel Externo,Dimensional,Aco,535.5,Finalizado
+313,2026-12-31,Tampa Dianteira,Acabamento,Ferro Fundido,178.55,Finalizado
+314,2026-02-20,Tampa de Caixa,Rebarba,Aco,155.12,Finalizado
+315,2026-09-21,Anel Interno,Rebarba,Aluminio,220.55,Finalizado
+316,2026-10-10,Carcaca,Inclusao de Areia,Aco,652.45,Retrabalho
+317,2026-01-27,Carcaca,Rebarba,Ferro Fundido,702.35,Retrabalho
+318,2026-08-14,Tampa de Caixa,Trinca,Ferro Fundido,378.77,Retrabalho
+319,2026-10-04,Tampa Traseira,Rebarba,Aluminio,467.49,Finalizado
+320,2026-10-13,Tampa de Caixa,Dimensional,Aluminio,385.3,Finalizado
+321,2026-04-07,Tampa Traseira,Dimensional,Aco,542.82,Retrabalho
+322,2026-10-11,Tampa de Caixa,Acabamento,Aluminio,499.91,Refugo
+323,2026-11-13,Anel Interno,Porosidade,Aluminio,189.05,Retrabalho
+324,2026-10-31,Caixa de Ligacao,Trinca,Ferro Fundido,299.28999999999996,Finalizado
+325,2026-05-27,Carcaca,Acabamento,Aluminio,318.95,Retrabalho
+326,2026-01-04,Tampa de Caixa,Trinca,Aluminio,235.33,Finalizado
+327,2026-02-04,Anel Interno,Porosidade,Ferro Fundido,699.75,Finalizado
+328,2026-07-11,Tampa Traseira,Rebarba,Ferro Fundido,373.16,Refugo
+329,2026-02-18,Tampa Traseira,Rebarba,Aco,171.27,Retrabalho
+330,2026-01-17,Carcaca,Porosidade,Aluminio,669.37,Retrabalho
+331,2026-06-21,Anel Externo,Acabamento,Ferro Fundido,448.36,Retrabalho
+332,2026-08-08,Tampa de Caixa,Porosidade,Aco,132.28,Refugo
+333,2026-06-07,Tampa Dianteira,Inclusao de Areia,Aco,259.38,Refugo
+334,2026-02-15,Tampa Traseira,Dimensional,Aluminio,277.96,Finalizado
+335,2026-01-06,Caixa de Ligacao,Acabamento,Aluminio,464.61,Retrabalho
+336,2026-04-09,Caixa de Ligacao,Trinca,Aco,61.37,Retrabalho
+337,2026-08-21,Tampa Traseira,Inclusao de Areia,Ferro Fundido,297.96000000000004,Finalizado
+338,2026-02-06,Anel Externo,Acabamento,Aco,334.68,Finalizado
+339,2026-10-07,Anel Externo,Porosidade,Aluminio,197.87,Refugo
+340,2026-12-15,Anel Interno,Porosidade,Ferro Fundido,495.64,Finalizado
+341,2026-10-29,Caixa de Ligacao,Porosidade,Ferro Fundido,415.03,Retrabalho
+342,2026-06-30,Anel Interno,Porosidade,Aco,248.94,Finalizado
+343,2026-04-05,Caixa de Ligacao,Trinca,Aluminio,572.06,Finalizado
+344,2026-04-09,Tampa de Caixa,Inclusao de Areia,Aco,397.69,Finalizado
+345,2026-07-07,Tampa de Caixa,Rebarba,Aco,121.47,Retrabalho
+346,2026-04-26,Tampa Dianteira,Dimensional,Aco,358.05,Finalizado
+347,2026-07-10,Tampa de Caixa,Trinca,Ferro Fundido,579.4,Refugo
+348,2026-09-10,Tampa Dianteira,Trinca,Ferro Fundido,539.6700000000001,Refugo
+349,2026-06-10,Tampa de Caixa,Rebarba,Aluminio,144.65,Retrabalho
+350,2026-09-13,Carcaca,Rebarba,Aluminio,784.83,Refugo
+351,2026-11-19,Tampa de Caixa,Dimensional,Aco,296.85,Retrabalho
+352,2026-05-08,Anel Interno,Dimensional,Aco,137.46,Finalizado
+353,2026-01-18,Tampa Traseira,Rebarba,Aco,149.11,Finalizado
+354,2026-10-08,Anel Interno,Porosidade,Aluminio,104.03,Retrabalho
+355,2026-08-11,Tampa Traseira,Trinca,Ferro Fundido,591.9300000000001,Retrabalho
+356,2026-02-23,Anel Externo,Acabamento,Ferro Fundido,217.12,Retrabalho
+357,2026-02-27,Anel Interno,Dimensional,Aco,118.82,Retrabalho
+358,2026-11-19,Anel Externo,Dimensional,Aco,517.76,Refugo
+359,2026-12-26,Tampa Dianteira,Rebarba,Aco,239.53,Finalizado
+360,2026-06-23,Tampa Dianteira,Inclusao de Areia,Aco,66.97,Retrabalho
+361,2026-10-07,Carcaca,Acabamento,Aluminio,278.54,Retrabalho
+362,2026-04-24,Tampa de Caixa,Acabamento,Ferro Fundido,228.19,Refugo
+363,2026-10-15,Anel Interno,Dimensional,Aco,167.37,Finalizado
+364,2026-12-08,Anel Externo,Porosidade,Aluminio,415.83,Finalizado
+365,2026-05-31,Tampa Traseira,Inclusao de Areia,Aco,136.53,Finalizado
+366,2026-05-07,Tampa Dianteira,Acabamento,Aco,115.38,Finalizado
+367,2026-06-04,Tampa de Caixa,Dimensional,Ferro Fundido,570.6,Retrabalho
+368,2026-09-30,Tampa Dianteira,Acabamento,Aco,419.08,Retrabalho
+369,2026-04-14,Tampa Traseira,Inclusao de Areia,Ferro Fundido,389.43,Finalizado
+370,2026-10-26,Tampa de Caixa,Inclusao de Areia,Ferro Fundido,452.12,Retrabalho
+371,2026-09-03,Tampa de Caixa,Trinca,Ferro Fundido,321.59000000000003,Finalizado
+372,2026-06-25,Anel Externo,Rebarba,Aluminio,315.38,Refugo
+373,2026-02-08,Anel Externo,Rebarba,Aluminio,328.67,Refugo
+374,2026-06-19,Anel Interno,Dimensional,Ferro Fundido,362.98,Finalizado
+375,2026-09-04,Anel Interno,Inclusao de Areia,Aco,548.61,Finalizado
+376,2026-01-26,Caixa de Ligacao,Trinca,Ferro Fundido,158.82999999999998,Finalizado
+377,2026-12-21,Caixa de Ligacao,Trinca,Aco,480.19,Refugo
+378,2026-11-02,Carcaca,Acabamento,Ferro Fundido,418.40999999999997,Finalizado
+379,2026-01-13,Tampa Dianteira,Acabamento,Aco,488.65,Refugo
+380,2026-11-12,Anel Interno,Trinca,Aluminio,388.75,Refugo
+381,2026-11-09,Anel Externo,Acabamento,Aco,513.8,Retrabalho
+382,2026-02-05,Tampa Traseira,Inclusao de Areia,Ferro Fundido,203.63,Refugo
+383,2026-06-22,Anel Externo,Porosidade,Aluminio,357.44,Retrabalho
+384,2026-01-20,Tampa Dianteira,Inclusao de Areia,Aco,325.6,Retrabalho
+385,2026-11-17,Caixa de Ligacao,Trinca,Aco,438.41,Retrabalho
+386,2026-09-21,Anel Externo,Trinca,Aco,343.86,Refugo
+387,2026-05-22,Carcaca,Inclusao de Areia,Aco,547.4,Refugo
+388,2026-05-23,Tampa Dianteira,Acabamento,Aco,286.28,Refugo
+389,2026-04-02,Caixa de Ligacao,Acabamento,Aluminio,219.86,Refugo
+390,2026-12-20,Tampa Traseira,Rebarba,Aluminio,315.25,Finalizado
+391,2026-11-18,Caixa de Ligacao,Trinca,Aluminio,115.17,Retrabalho
+392,2026-10-15,Tampa de Caixa,Dimensional,Aluminio,578.83,Retrabalho
+393,2026-08-03,Carcaca,Rebarba,Ferro Fundido,742.9300000000001,Retrabalho
+394,2026-12-08,Tampa Dianteira,Acabamento,Aluminio,573.86,Finalizado
+395,2026-02-20,Tampa Traseira,Inclusao de Areia,Aco,174.7,Finalizado
+396,2026-06-02,Carcaca,Acabamento,Aco,733.64,Finalizado
+397,2026-07-05,Caixa de Ligacao,Inclusao de Areia,Aluminio,494.83,Finalizado
+398,2026-03-04,Carcaca,Rebarba,Aco,622.4300000000001,Retrabalho
+399,2026-07-09,Tampa Dianteira,Trinca,Aluminio,393.77,Finalizado
+400,2026-05-05,Anel Interno,Acabamento,Aco,224.1,Finalizado
+401,2026-05-30,Carcaca,Inclusao de Areia,Ferro Fundido,799.03,Retrabalho
+402,2026-11-10,Tampa de Caixa,Trinca,Ferro Fundido,425.83,Retrabalho
+403,2026-02-27,Carcaca,Dimensional,Aluminio,288.99,Retrabalho
+404,2026-12-08,Caixa de Ligacao,Inclusao de Areia,Aluminio,222.07,Finalizado
+405,2026-11-01,Caixa de Ligacao,Rebarba,Aluminio,564.41,Finalizado
+406,2026-06-29,Tampa Traseira,Dimensional,Aco,517.87,Finalizado
+407,2026-06-19,Caixa de Ligacao,Dimensional,Aluminio,590.05,Retrabalho
+408,2026-11-22,Anel Externo,Porosidade,Ferro Fundido,495.4,Retrabalho
+409,2026-09-28,Tampa Dianteira,Acabamento,Aco,186.13,Refugo
+410,2026-02-23,Tampa Dianteira,Inclusao de Areia,Aluminio,139.55,Refugo
+411,2026-04-11,Anel Interno,Dimensional,Aco,152.8,Finalizado
+412,2026-09-21,Anel Interno,Porosidade,Aco,60.89,Finalizado
+413,2026-02-22,Tampa Dianteira,Rebarba,Aluminio,264.88,Retrabalho
+414,2026-03-01,Tampa de Caixa,Trinca,Aco,155.29,Finalizado
+415,2026-04-18,Anel Interno,Inclusao de Areia,Ferro Fundido,376.41,Retrabalho
+416,2026-01-05,Tampa Traseira,Dimensional,Ferro Fundido,664.25,Finalizado
+417,2026-04-13,Caixa de Ligacao,Acabamento,Aco,286.8,Retrabalho
+418,2026-07-15,Tampa Dianteira,Porosidade,Aluminio,532.89,Retrabalho
+419,2026-09-19,Anel Interno,Dimensional,Aco,383.03,Retrabalho
+420,2026-12-31,Tampa Dianteira,Acabamento,Ferro Fundido,285.91999999999996,Refugo
+421,2026-12-16,Anel Externo,Dimensional,Aco,245.72,Refugo
+422,2026-02-16,Carcaca,Inclusao de Areia,Aco,296.15999999999997,Finalizado
+423,2026-12-21,Caixa de Ligacao,Inclusao de Areia,Ferro Fundido,333.4,Finalizado
+424,2026-11-07,Tampa Dianteira,Inclusao de Areia,Aco,422.65,Finalizado
+425,2026-11-04,Carcaca,Rebarba,Aco,289.65999999999997,Refugo
+426,2026-05-24,Anel Interno,Rebarba,Aluminio,162.97,Finalizado
+427,2026-09-26,Carcaca,Porosidade,Aluminio,459.79,Refugo
+428,2026-05-04,Caixa de Ligacao,Inclusao de Areia,Ferro Fundido,690.13,Refugo
+429,2026-04-16,Tampa Dianteira,Acabamento,Ferro Fundido,581.6700000000001,Finalizado
+430,2026-06-07,Anel Externo,Dimensional,Ferro Fundido,553.4200000000001,Finalizado
+431,2026-05-27,Tampa de Caixa,Trinca,Aluminio,113.91,Refugo
+432,2026-05-25,Anel Interno,Acabamento,Ferro Fundido,579.55,Refugo
+433,2026-04-30,Tampa Dianteira,Rebarba,Ferro Fundido,581.9,Finalizado
+434,2026-11-15,Caixa de Ligacao,Rebarba,Ferro Fundido,480.61,Refugo
+435,2026-10-02,Anel Interno,Acabamento,Aluminio,594.7,Retrabalho
+436,2026-04-02,Tampa Traseira,Rebarba,Aco,228.89,Finalizado
+437,2026-02-27,Carcaca,Inclusao de Areia,Ferro Fundido,867.7,Refugo
+438,2026-12-12,Tampa de Caixa,Porosidade,Aco,553.1,Refugo
+439,2026-08-17,Caixa de Ligacao,Dimensional,Ferro Fundido,156.31,Retrabalho
+440,2026-04-27,Tampa Traseira,Porosidade,Aco,297.56,Finalizado
+441,2026-11-14,Tampa Dianteira,Dimensional,Aluminio,587.41,Finalizado
+442,2026-10-06,Anel Externo,Dimensional,Aluminio,106.72,Finalizado
+443,2026-05-07,Anel Interno,Porosidade,Ferro Fundido,451.28,Finalizado
+444,2026-05-09,Carcaca,Acabamento,Aco,788.43,Finalizado
+445,2026-02-27,Anel Interno,Dimensional,Aluminio,355.52,Retrabalho
+446,2026-05-02,Tampa de Caixa,Porosidade,Ferro Fundido,254.4,Retrabalho
+447,2026-01-01,Tampa Dianteira,Dimensional,Ferro Fundido,470.2,Finalizado
+448,2026-08-27,Anel Interno,Trinca,Aluminio,162.44,Finalizado
+449,2026-10-17,Carcaca,Acabamento,Aluminio,535.8399999999999,Finalizado
+450,2026-04-06,Tampa Dianteira,Inclusao de Areia,Ferro Fundido,190.72,Finalizado
+451,2026-05-06,Anel Interno,Dimensional,Aco,383.02,Refugo
+452,2026-04-28,Anel Externo,Trinca,Aco,334.23,Retrabalho
+453,2026-02-17,Caixa de Ligacao,Inclusao de Areia,Aco,457.09,Retrabalho
+454,2026-03-30,Tampa Dianteira,Inclusao de Areia,Ferro Fundido,496.89,Refugo
+455,2026-08-25,Caixa de Ligacao,Dimensional,Aluminio,352.28,Refugo
+456,2026-09-29,Tampa Dianteira,Porosidade,Ferro Fundido,529.38,Finalizado
+457,2026-07-08,Anel Externo,Dimensional,Aluminio,129.17,Finalizado
+458,2026-07-11,Caixa de Ligacao,Trinca,Aco,377.45,Retrabalho
+459,2026-03-10,Tampa Traseira,Inclusao de Areia,Aco,144.66,Retrabalho
+460,2026-10-05,Carcaca,Dimensional,Aluminio,759.04,Retrabalho
+461,2026-12-15,Tampa Traseira,Porosidade,Aluminio,87.58,Refugo
+462,2026-09-04,Anel Interno,Dimensional,Ferro Fundido,386.71,Finalizado
+463,2026-03-17,Anel Externo,Acabamento,Aco,432.69,Finalizado
+464,2026-06-03,Tampa Traseira,Porosidade,Ferro Fundido,401.91,Finalizado
+465,2026-05-24,Tampa Dianteira,Trinca,Ferro Fundido,200.65,Finalizado
+466,2026-03-27,Anel Interno,Inclusao de Areia,Ferro Fundido,454.36,Finalizado
+467,2026-07-04,Anel Interno,Dimensional,Aco,402.9,Refugo
+468,2026-10-12,Tampa Traseira,Porosidade,Ferro Fundido,537.0899999999999,Retrabalho
+469,2026-08-08,Tampa Traseira,Acabamento,Ferro Fundido,355.28999999999996,Refugo
+470,2026-03-10,Anel Externo,Porosidade,Ferro Fundido,460.01,Finalizado
+471,2026-02-16,Carcaca,Rebarba,Ferro Fundido,597.88,Refugo
+472,2026-04-04,Tampa Traseira,Acabamento,Ferro Fundido,519.63,Refugo
+473,2026-08-26,Tampa de Caixa,Trinca,Ferro Fundido,470.96,Finalizado
+474,2026-07-23,Tampa Traseira,Inclusao de Areia,Aco,339.17,Finalizado
+475,2026-08-06,Caixa de Ligacao,Trinca,Ferro Fundido,287.24,Finalizado
+476,2026-12-07,Tampa Dianteira,Dimensional,Aluminio,51.11,Refugo
+477,2026-02-08,Tampa de Caixa,Porosidade,Ferro Fundido,245.74,Refugo
+478,2026-04-10,Tampa de Caixa,Rebarba,Ferro Fundido,214.39,Retrabalho
+479,2026-10-16,Caixa de Ligacao,Acabamento,Aco,297.0,Refugo
+480,2026-09-11,Caixa de Ligacao,Acabamento,Aco,386.74,Refugo
+481,2026-08-10,Anel Interno,Porosidade,Aluminio,167.2,Retrabalho
+482,2026-12-23,Carcaca,Rebarba,Aluminio,766.48,Finalizado
+483,2026-01-23,Tampa Dianteira,Porosidade,Aco,53.68,Retrabalho
+484,2026-09-07,Anel Externo,Dimensional,Aco,474.77,Finalizado
+485,2026-01-10,Tampa de Caixa,Trinca,Ferro Fundido,493.86,Finalizado
+486,2026-09-03,Anel Externo,Acabamento,Aco,255.46,Retrabalho
+487,2026-11-21,Tampa Traseira,Dimensional,Aluminio,77.77,Finalizado
+488,2026-04-10,Tampa Traseira,Trinca,Ferro Fundido,495.12,Retrabalho
+489,2026-10-17,Anel Externo,Dimensional,Aluminio,262.09,Refugo
+490,2026-06-29,Tampa Traseira,Rebarba,Ferro Fundido,664.95,Finalizado
+491,2026-08-11,Carcaca,Acabamento,Aco,548.0899999999999,Refugo
+492,2026-09-07,Caixa de Ligacao,Porosidade,Aluminio,566.81,Finalizado
+493,2026-05-27,Tampa Traseira,Porosidade,Ferro Fundido,271.27,Refugo
+494,2026-04-06,Anel Interno,Trinca,Ferro Fundido,549.15,Finalizado
+495,2026-09-14,Tampa Traseira,Inclusao de Areia,Aco,389.49,Retrabalho
+496,2026-11-21,Tampa Dianteira,Rebarba,Aco,456.67,Refugo
+497,2026-01-04,Carcaca,Trinca,Aco,368.07,Refugo
+498,2026-01-16,Tampa Dianteira,Inclusao de Areia,Aluminio,415.75,Finalizado
+499,2026-10-07,Tampa Dianteira,Dimensional,Ferro Fundido,423.92,Finalizado
+500,2026-12-02,Anel Interno,Rebarba,Aco,458.55,Finalizado
+501,2026-09-04,Carcaca,Dimensional,Aluminio,429.87,Retrabalho
+502,2026-09-15,Carcaca,Acabamento,Aluminio,739.53,Finalizado
+503,2026-06-09,Carcaca,Rebarba,Aluminio,296.37,Finalizado
+504,2026-12-06,Carcaca,Inclusao de Areia,Aco,693.95,Finalizado
+505,2026-06-01,Carcaca,Acabamento,Aco,723.73,Retrabalho
+506,2026-06-27,Anel Interno,Porosidade,Ferro Fundido,599.49,Finalizado
+507,2026-06-12,Tampa Traseira,Inclusao de Areia,Ferro Fundido,432.0,Finalizado
+508,2026-02-02,Tampa Dianteira,Trinca,Aco,291.11,Retrabalho
+509,2026-06-28,Carcaca,Porosidade,Aluminio,797.94,Finalizado
+510,2026-04-11,Tampa de Caixa,Porosidade,Aluminio,176.04,Finalizado
+511,2026-09-25,Tampa Traseira,Trinca,Aluminio,350.78,Refugo
+512,2026-11-19,Tampa Traseira,Rebarba,Ferro Fundido,518.87,Refugo
+513,2026-03-06,Tampa Dianteira,Porosidade,Aluminio,435.48,Retrabalho
+514,2026-06-17,Anel Interno,Inclusao de Areia,Ferro Fundido,262.21000000000004,Finalizado
+515,2026-11-26,Anel Externo,Acabamento,Ferro Fundido,509.7,Finalizado
+516,2026-02-12,Anel Externo,Porosidade,Aluminio,500.1,Refugo
+517,2026-02-13,Tampa Traseira,Inclusao de Areia,Aluminio,77.51,Finalizado
+518,2026-10-12,Caixa de Ligacao,Dimensional,Aco,551.34,Finalizado
+519,2026-01-12,Caixa de Ligacao,Inclusao de Areia,Aco,66.23,Refugo
+520,2026-04-05,Tampa Dianteira,Acabamento,Aluminio,245.78,Finalizado
+521,2026-10-29,Anel Externo,Inclusao de Areia,Ferro Fundido,158.7,Finalizado
+522,2026-09-10,Tampa Traseira,Trinca,Ferro Fundido,192.43,Finalizado
+523,2026-08-30,Anel Interno,Acabamento,Ferro Fundido,651.14,Finalizado
+524,2026-02-04,Anel Externo,Rebarba,Ferro Fundido,345.16999999999996,Finalizado
+525,2026-08-03,Tampa Traseira,Dimensional,Ferro Fundido,383.62,Finalizado
+526,2026-12-03,Tampa Traseira,Trinca,Aco,168.44,Retrabalho
+527,2026-03-31,Carcaca,Rebarba,Aluminio,578.4,Finalizado
+528,2026-09-21,Anel Interno,Inclusao de Areia,Aco,377.14,Finalizado
+529,2026-04-03,Carcaca,Acabamento,Ferro Fundido,554.71,Finalizado
+530,2026-03-31,Tampa Dianteira,Dimensional,Ferro Fundido,333.16999999999996,Retrabalho
+531,2026-04-25,Carcaca,Trinca,Ferro Fundido,836.73,Finalizado
+532,2026-04-15,Tampa de Caixa,Rebarba,Ferro Fundido,360.81,Refugo
+533,2026-07-15,Carcaca,Rebarba,Aluminio,521.4300000000001,Finalizado
+534,2026-11-10,Tampa de Caixa,Dimensional,Ferro Fundido,305.82,Retrabalho
+535,2026-04-24,Anel Externo,Inclusao de Areia,Aluminio,482.72,Refugo
+536,2026-03-16,Caixa de Ligacao,Dimensional,Ferro Fundido,368.6,Retrabalho
+537,2026-08-05,Tampa Traseira,Rebarba,Aluminio,332.49,Refugo
+538,2026-10-04,Tampa de Caixa,Porosidade,Aco,189.35,Finalizado
+539,2026-09-06,Anel Interno,Trinca,Ferro Fundido,693.21,Finalizado
+540,2026-06-13,Carcaca,Dimensional,Aluminio,410.32,Finalizado
+541,2026-12-23,Tampa de Caixa,Rebarba,Aco,473.91,Refugo
+542,2026-07-11,Anel Interno,Inclusao de Areia,Ferro Fundido,385.12,Refugo
+543,2026-08-15,Caixa de Ligacao,Rebarba,Ferro Fundido,263.41999999999996,Finalizado
+544,2026-06-26,Caixa de Ligacao,Inclusao de Areia,Ferro Fundido,589.85,Finalizado
+545,2026-04-09,Carcaca,Dimensional,Aluminio,433.48,Retrabalho
+546,2026-02-05,Tampa Dianteira,Inclusao de Areia,Aluminio,525.86,Retrabalho
+547,2026-04-06,Carcaca,Acabamento,Aco,753.39,Retrabalho
+548,2026-06-01,Anel Externo,Acabamento,Aluminio,522.9,Finalizado
+549,2026-05-31,Tampa de Caixa,Acabamento,Aluminio,69.25,Finalizado
+550,2026-07-09,Tampa Traseira,Porosidade,Ferro Fundido,583.06,Retrabalho
+551,2026-08-12,Tampa Dianteira,Dimensional,Ferro Fundido,376.24,Retrabalho
+552,2026-02-06,Carcaca,Rebarba,Ferro Fundido,830.55,Finalizado
+553,2026-09-25,Anel Interno,Rebarba,Ferro Fundido,500.87,Refugo
+554,2026-07-02,Tampa Dianteira,Porosidade,Ferro Fundido,608.5,Retrabalho
+555,2026-01-13,Tampa de Caixa,Inclusao de Areia,Ferro Fundido,424.69,Finalizado
+556,2026-10-06,Tampa Dianteira,Porosidade,Ferro Fundido,444.26,Refugo
+557,2026-08-05,Tampa de Caixa,Inclusao de Areia,Aco,129.41,Refugo
+558,2026-12-21,Carcaca,Inclusao de Areia,Aco,681.19,Finalizado
+559,2026-12-27,Tampa de Caixa,Trinca,Aco,280.66,Finalizado
+560,2026-10-13,Tampa Dianteira,Rebarba,Aco,325.04,Finalizado
+561,2026-09-30,Anel Interno,Acabamento,Ferro Fundido,581.8,Finalizado
+562,2026-03-03,Caixa de Ligacao,Inclusao de Areia,Aco,379.36,Finalizado
+563,2026-03-25,Tampa Dianteira,Trinca,Ferro Fundido,260.6,Finalizado
+564,2026-08-05,Tampa de Caixa,Rebarba,Aco,374.63,Retrabalho
+565,2026-12-08,Caixa de Ligacao,Acabamento,Aluminio,274.2,Finalizado
+566,2026-07-06,Tampa de Caixa,Inclusao de Areia,Aco,308.24,Finalizado
+567,2026-01-19,Anel Interno,Inclusao de Areia,Aco,65.57,Retrabalho
+568,2026-06-26,Tampa de Caixa,Porosidade,Ferro Fundido,265.52,Retrabalho
+569,2026-04-10,Carcaca,Porosidade,Aco,404.57,Retrabalho
+570,2026-08-21,Tampa Traseira,Rebarba,Aluminio,442.13,Refugo
+571,2026-03-17,Tampa Dianteira,Acabamento,Ferro Fundido,156.32,Refugo
+572,2026-09-22,Tampa Traseira,Inclusao de Areia,Ferro Fundido,374.83,Finalizado
+573,2026-10-11,Tampa de Caixa,Rebarba,Aco,558.21,Finalizado
+574,2026-07-25,Anel Interno,Rebarba,Ferro Fundido,211.53,Retrabalho
+575,2026-08-11,Tampa Dianteira,Dimensional,Ferro Fundido,434.03,Refugo
+576,2026-02-21,Tampa de Caixa,Porosidade,Ferro Fundido,582.5899999999999,Refugo
+577,2026-12-05,Caixa de Ligacao,Acabamento,Ferro Fundido,668.39,Finalizado
+578,2026-05-24,Anel Externo,Inclusao de Areia,Ferro Fundido,560.73,Retrabalho
+579,2026-03-10,Tampa de Caixa,Rebarba,Ferro Fundido,546.31,Retrabalho
+580,2026-04-09,Tampa Traseira,Inclusao de Areia,Aluminio,504.57,Retrabalho
+581,2026-01-25,Tampa Dianteira,Dimensional,Aco,295.41,Retrabalho
+582,2026-02-22,Tampa Traseira,Acabamento,Aluminio,493.21,Retrabalho
+583,2026-05-31,Tampa Dianteira,Rebarba,Ferro Fundido,154.38,Finalizado
+584,2026-05-24,Tampa de Caixa,Inclusao de Areia,Ferro Fundido,658.51,Finalizado
+585,2026-02-26,Carcaca,Porosidade,Aco,493.82,Finalizado
+586,2026-02-08,Caixa de Ligacao,Dimensional,Aluminio,354.36,Retrabalho
+587,2026-04-19,Tampa de Caixa,Acabamento,Aco,190.19,Finalizado
+588,2026-06-30,Tampa Traseira,Dimensional,Aluminio,458.39,Finalizado
+589,2026-02-11,Anel Externo,Porosidade,Ferro Fundido,192.15,Refugo
+590,2026-07-05,Anel Externo,Acabamento,Aco,529.95,Finalizado
+591,2026-08-11,Anel Interno,Dimensional,Aco,505.46,Retrabalho
+592,2026-05-02,Tampa Dianteira,Trinca,Ferro Fundido,268.83000000000004,Finalizado
+593,2026-05-13,Tampa Traseira,Porosidade,Aco,495.13,Retrabalho
+594,2026-06-12,Anel Interno,Porosidade,Aluminio,482.5,Finalizado
+595,2026-08-03,Tampa Traseira,Porosidade,Aluminio,397.72,Refugo
+596,2026-08-09,Tampa Dianteira,Trinca,Aluminio,255.44,Finalizado
+597,2026-08-23,Tampa de Caixa,Trinca,Aluminio,199.32,Finalizado
+598,2026-11-27,Tampa de Caixa,Inclusao de Areia,Ferro Fundido,277.48,Finalizado
+599,2026-05-26,Anel Externo,Rebarba,Aco,225.23,Retrabalho
+600,2026-08-27,Tampa de Caixa,Dimensional,Aluminio,546.96,Retrabalho
+601,2026-03-17,Tampa de Caixa,Inclusao de Areia,Ferro Fundido,192.7,Finalizado
+602,2026-01-09,Carcaca,Dimensional,Aco,705.88,Retrabalho
+603,2026-03-15,Anel Externo,Rebarba,Aco,241.89,Retrabalho
+604,2026-09-10,Anel Interno,Trinca,Ferro Fundido,436.88,Finalizado
+605,2026-08-18,Caixa de Ligacao,Rebarba,Ferro Fundido,586.97,Finalizado
+606,2026-01-07,Carcaca,Trinca,Aluminio,736.41,Retrabalho
+607,2026-06-23,Anel Interno,Rebarba,Aco,239.63,Retrabalho
+608,2026-05-21,Tampa Dianteira,Inclusao de Areia,Aco,304.01,Retrabalho
+609,2026-06-17,Carcaca,Acabamento,Ferro Fundido,577.98,Finalizado
+610,2026-06-19,Anel Interno,Inclusao de Areia,Aco,57.29,Finalizado
+611,2026-10-10,Tampa Dianteira,Dimensional,Aluminio,212.77,Finalizado
+612,2026-05-02,Anel Externo,Inclusao de Areia,Aco,302.55,Finalizado
+613,2026-07-13,Caixa de Ligacao,Porosidade,Ferro Fundido,376.1,Retrabalho
+614,2026-01-05,Tampa Dianteira,Dimensional,Ferro Fundido,547.06,Refugo
+615,2026-01-29,Tampa de Caixa,Rebarba,Aluminio,261.64,Refugo
+616,2026-06-14,Tampa Traseira,Dimensional,Aluminio,319.16,Retrabalho
+617,2026-12-05,Tampa Dianteira,Acabamento,Aco,286.28,Finalizado
+618,2026-05-16,Tampa Dianteira,Trinca,Aco,457.34,Finalizado
+619,2026-12-31,Caixa de Ligacao,Rebarba,Ferro Fundido,624.63,Retrabalho
+620,2026-11-17,Tampa Traseira,Dimensional,Aluminio,342.54,Retrabalho
+621,2026-12-08,Tampa de Caixa,Rebarba,Aluminio,484.19,Finalizado
+622,2026-05-25,Anel Interno,Rebarba,Aluminio,213.23,Finalizado
+623,2026-11-23,Anel Interno,Rebarba,Aco,347.75,Refugo
+624,2026-08-05,Tampa Dianteira,Trinca,Aluminio,239.88,Finalizado
+625,2026-10-28,Tampa Traseira,Inclusao de Areia,Ferro Fundido,377.81,Finalizado
+626,2026-05-12,Tampa Traseira,Rebarba,Ferro Fundido,552.8299999999999,Refugo
+627,2026-10-19,Tampa de Caixa,Porosidade,Aco,534.91,Finalizado
+628,2026-03-11,Caixa de Ligacao,Acabamento,Aco,116.82,Refugo
+629,2026-09-09,Anel Externo,Trinca,Aluminio,399.05,Finalizado
+630,2026-10-02,Anel Interno,Dimensional,Aco,370.18,Finalizado
+631,2026-12-30,Caixa de Ligacao,Trinca,Ferro Fundido,215.13,Finalizado
+632,2026-07-01,Carcaca,Dimensional,Aluminio,366.53999999999996,Finalizado
+633,2026-06-16,Anel Interno,Trinca,Ferro Fundido,321.05,Retrabalho
+634,2026-04-01,Caixa de Ligacao,Dimensional,Aluminio,141.81,Finalizado
+635,2026-07-21,Anel Interno,Rebarba,Aco,184.05,Finalizado
+636,2026-12-12,Anel Externo,Inclusao de Areia,Aluminio,197.18,Finalizado
+637,2026-01-19,Carcaca,Dimensional,Aluminio,434.62,Finalizado
+638,2026-02-08,Anel Externo,Dimensional,Ferro Fundido,562.1600000000001,Finalizado
+639,2026-05-06,Tampa de Caixa,Porosidade,Ferro Fundido,464.55,Finalizado
+640,2026-06-22,Carcaca,Dimensional,Aluminio,792.44,Retrabalho
+641,2026-05-21,Tampa Dianteira,Porosidade,Aco,278.1,Finalizado
+642,2026-08-30,Caixa de Ligacao,Acabamento,Aco,464.63,Finalizado
+643,2026-08-08,Carcaca,Rebarba,Ferro Fundido,829.31,Finalizado
+644,2026-05-06,Tampa de Caixa,Porosidade,Aco,423.44,Finalizado
+645,2026-02-27,Tampa de Caixa,Inclusao de Areia,Ferro Fundido,376.53,Retrabalho
+646,2026-05-28,Anel Externo,Rebarba,Aco,464.48,Retrabalho
+647,2026-11-13,Anel Interno,Porosidade,Aluminio,162.02,Finalizado
+648,2026-12-27,Carcaca,Rebarba,Ferro Fundido,530.15,Finalizado
+649,2026-01-01,Caixa de Ligacao,Rebarba,Ferro Fundido,450.68,Retrabalho
+650,2026-12-14,Carcaca,Rebarba,Aluminio,566.48,Finalizado
+651,2026-07-09,Tampa Traseira,Acabamento,Ferro Fundido,162.18,Retrabalho
+652,2026-07-10,Anel Interno,Inclusao de Areia,Aco,569.81,Finalizado
+653,2026-11-08,Caixa de Ligacao,Trinca,Aco,433.14,Retrabalho
+654,2026-04-27,Caixa de Ligacao,Trinca,Ferro Fundido,422.64,Refugo
+655,2026-05-14,Tampa Dianteira,Porosidade,Aco,563.22,Refugo
+656,2026-02-27,Anel Externo,Rebarba,Ferro Fundido,391.5,Refugo
+657,2026-02-13,Tampa Dianteira,Porosidade,Aluminio,589.24,Retrabalho
+658,2026-06-22,Caixa de Ligacao,Acabamento,Ferro Fundido,431.76,Refugo
+659,2026-06-09,Anel Interno,Acabamento,Aluminio,112.86,Refugo
+660,2026-06-22,Carcaca,Dimensional,Aco,670.64,Finalizado
+661,2026-11-13,Carcaca,Acabamento,Aluminio,623.39,Finalizado
+662,2026-10-30,Anel Interno,Dimensional,Aco,475.14,Retrabalho
+663,2026-05-29,Caixa de Ligacao,Inclusao de Areia,Ferro Fundido,673.29,Finalizado
+664,2026-03-21,Tampa de Caixa,Porosidade,Aco,477.07,Refugo
+665,2026-08-01,Carcaca,Inclusao de Areia,Ferro Fundido,686.24,Finalizado
+666,2026-07-22,Tampa de Caixa,Acabamento,Ferro Fundido,621.52,Finalizado
+667,2026-09-09,Carcaca,Inclusao de Areia,Aluminio,620.29,Retrabalho
+668,2026-08-17,Carcaca,Inclusao de Areia,Aluminio,474.47,Retrabalho
+669,2026-06-13,Anel Externo,Inclusao de Areia,Aluminio,537.09,Retrabalho
+670,2026-08-15,Anel Externo,Acabamento,Aluminio,172.05,Retrabalho
+671,2026-05-27,Tampa Traseira,Rebarba,Aco,443.05,Finalizado
+672,2026-01-20,Tampa Dianteira,Inclusao de Areia,Aco,534.86,Refugo
+673,2026-02-16,Anel Interno,Dimensional,Aco,452.22,Refugo
+674,2026-08-21,Anel Interno,Acabamento,Ferro Fundido,533.5,Refugo
+675,2026-11-01,Anel Interno,Inclusao de Areia,Aco,463.95,Retrabalho
+676,2026-01-14,Tampa Traseira,Rebarba,Aco,305.78,Finalizado
+677,2026-05-23,Anel Externo,Acabamento,Aco,530.79,Refugo
+678,2026-01-01,Caixa de Ligacao,Trinca,Aluminio,161.89,Finalizado
+679,2026-02-23,Tampa de Caixa,Rebarba,Aco,120.06,Retrabalho
+680,2026-09-16,Tampa de Caixa,Dimensional,Ferro Fundido,307.03,Refugo
+681,2026-05-24,Caixa de Ligacao,Inclusao de Areia,Aluminio,342.37,Finalizado
+682,2026-01-12,Tampa Traseira,Trinca,Ferro Fundido,430.81,Refugo
+683,2026-11-26,Caixa de Ligacao,Trinca,Aco,501.33,Finalizado
+684,2026-08-12,Anel Interno,Acabamento,Aluminio,272.51,Finalizado
+685,2026-09-29,Tampa Dianteira,Trinca,Ferro Fundido,416.39,Retrabalho
+686,2026-12-24,Carcaca,Dimensional,Aco,257.35,Refugo
+687,2026-06-05,Tampa de Caixa,Dimensional,Ferro Fundido,375.36,Retrabalho
+688,2026-01-08,Anel Externo,Porosidade,Ferro Fundido,506.28,Refugo
+689,2026-05-02,Anel Externo,Dimensional,Ferro Fundido,158.53,Refugo
+690,2026-12-14,Tampa Traseira,Rebarba,Aco,204.49,Retrabalho
+691,2026-06-13,Anel Externo,Trinca,Aco,164.38,Retrabalho
+692,2026-03-31,Anel Interno,Dimensional,Ferro Fundido,173.09,Finalizado
+693,2026-05-16,Tampa de Caixa,Acabamento,Aluminio,313.59,Finalizado
+694,2026-07-05,Caixa de Ligacao,Porosidade,Aluminio,149.95,Finalizado
+695,2026-11-12,Anel Interno,Trinca,Aco,458.69,Refugo
+696,2026-06-27,Tampa Traseira,Porosidade,Aco,516.36,Refugo
+697,2026-01-28,Anel Interno,Trinca,Aco,350.07,Finalizado
+698,2026-08-08,Caixa de Ligacao,Acabamento,Aco,589.94,Finalizado
+699,2026-12-23,Tampa Dianteira,Porosidade,Aco,297.76,Finalizado
+700,2026-02-10,Tampa Traseira,Inclusao de Areia,Aluminio,332.35,Retrabalho
+701,2026-08-16,Tampa Dianteira,Rebarba,Aco,594.07,Finalizado
+702,2026-07-11,Carcaca,Rebarba,Ferro Fundido,477.35,Finalizado
+703,2026-05-25,Tampa Dianteira,Trinca,Ferro Fundido,668.4,Retrabalho
+704,2026-07-20,Carcaca,Inclusao de Areia,Aluminio,273.56,Retrabalho
+705,2026-07-31,Carcaca,Porosidade,Ferro Fundido,595.51,Finalizado
+706,2026-08-08,Tampa Dianteira,Inclusao de Areia,Aluminio,88.5,Retrabalho
+707,2026-08-28,Tampa Traseira,Inclusao de Areia,Aluminio,451.08,Retrabalho
+708,2026-02-15,Caixa de Ligacao,Porosidade,Ferro Fundido,484.62,Finalizado
+709,2026-02-04,Anel Interno,Acabamento,Aco,438.65,Finalizado
+710,2026-09-10,Anel Interno,Inclusao de Areia,Ferro Fundido,355.96000000000004,Retrabalho
+711,2026-03-23,Caixa de Ligacao,Inclusao de Areia,Ferro Fundido,353.22,Retrabalho
+712,2026-09-13,Tampa de Caixa,Acabamento,Aluminio,74.93,Refugo
+713,2026-07-16,Tampa de Caixa,Inclusao de Areia,Ferro Fundido,342.47,Finalizado
+714,2026-10-30,Carcaca,Inclusao de Areia,Aluminio,761.11,Retrabalho
+715,2026-01-10,Carcaca,Inclusao de Areia,Aco,458.57,Finalizado
+716,2026-11-08,Tampa Traseira,Rebarba,Aco,507.25,Retrabalho
+717,2026-10-13,Anel Externo,Dimensional,Aco,513.28,Retrabalho
+718,2026-08-30,Tampa Dianteira,Acabamento,Ferro Fundido,355.28,Finalizado
+719,2026-09-08,Carcaca,Inclusao de Areia,Aluminio,597.5899999999999,Finalizado
+720,2026-12-31,Anel Interno,Rebarba,Aco,102.45,Retrabalho
+721,2026-01-05,Tampa Traseira,Acabamento,Aluminio,107.02,Retrabalho
+722,2026-04-29,Tampa Dianteira,Trinca,Aluminio,76.76,Finalizado
+723,2026-10-16,Tampa Traseira,Trinca,Aco,369.56,Refugo
+724,2026-03-06,Tampa Dianteira,Inclusao de Areia,Aco,284.34,Finalizado
+725,2026-05-26,Tampa Dianteira,Rebarba,Aluminio,351.42,Refugo
+726,2026-08-12,Caixa de Ligacao,Rebarba,Aco,336.59,Finalizado
+727,2026-08-27,Carcaca,Acabamento,Aluminio,442.61,Finalizado
+728,2026-06-26,Tampa Traseira,Acabamento,Aluminio,422.61,Retrabalho
+729,2026-09-24,Tampa Traseira,Rebarba,Aco,467.18,Finalizado
+730,2026-12-07,Caixa de Ligacao,Acabamento,Ferro Fundido,158.05,Refugo
+731,2026-10-09,Anel Interno,Rebarba,Aco,163.98,Retrabalho
+732,2026-03-04,Anel Interno,Dimensional,Ferro Fundido,542.28,Finalizado
+733,2026-08-05,Tampa de Caixa,Rebarba,Aluminio,262.64,Retrabalho
+734,2026-12-08,Carcaca,Trinca,Aluminio,614.37,Finalizado
+735,2026-11-11,Carcaca,Acabamento,Ferro Fundido,540.83,Refugo
+736,2026-10-10,Anel Externo,Rebarba,Aluminio,264.92,Refugo
+737,2026-06-26,Caixa de Ligacao,Rebarba,Ferro Fundido,237.27,Refugo
+738,2026-04-08,Anel Interno,Acabamento,Ferro Fundido,292.03,Refugo
+739,2026-04-15,Tampa Dianteira,Dimensional,Aluminio,382.98,Retrabalho
+740,2026-04-09,Tampa Traseira,Dimensional,Ferro Fundido,388.24,Finalizado
+741,2026-11-07,Carcaca,Acabamento,Aco,675.87,Finalizado
+742,2026-01-06,Tampa Traseira,Porosidade,Aco,518.92,Finalizado
+743,2026-07-16,Tampa Traseira,Acabamento,Aluminio,347.91,Refugo
+744,2026-12-17,Anel Externo,Acabamento,Aluminio,467.05,Retrabalho
+745,2026-05-13,Anel Interno,Dimensional,Ferro Fundido,318.8,Refugo
+746,2026-12-24,Carcaca,Dimensional,Ferro Fundido,578.23,Retrabalho
+747,2026-09-16,Tampa Traseira,Acabamento,Ferro Fundido,542.03,Finalizado
+748,2026-01-23,Carcaca,Acabamento,Ferro Fundido,562.4200000000001,Refugo
+749,2026-02-22,Tampa Dianteira,Acabamento,Aco,373.68,Retrabalho
+750,2026-06-14,Anel Externo,Dimensional,Aco,151.96,Finalizado
+751,2026-07-21,Tampa Dianteira,Acabamento,Aluminio,379.87,Retrabalho
+752,2026-03-24,Carcaca,Acabamento,Ferro Fundido,823.83,Retrabalho
+753,2026-05-25,Tampa de Caixa,Inclusao de Areia,Ferro Fundido,627.75,Refugo
+754,2026-03-26,Carcaca,Porosidade,Aluminio,648.39,Retrabalho
+755,2026-03-19,Anel Interno,Trinca,Ferro Fundido,560.1600000000001,Finalizado
+756,2026-01-01,Tampa Traseira,Porosidade,Ferro Fundido,456.86,Refugo
+757,2026-02-20,Tampa Traseira,Inclusao de Areia,Ferro Fundido,471.57,Retrabalho
+758,2026-06-22,Tampa Dianteira,Trinca,Ferro Fundido,223.51,Refugo
+759,2026-07-24,Anel Externo,Acabamento,Ferro Fundido,394.12,Retrabalho
+760,2026-09-17,Tampa de Caixa,Inclusao de Areia,Aluminio,297.93,Refugo
+761,2026-10-15,Caixa de Ligacao,Acabamento,Ferro Fundido,677.17,Finalizado
+762,2026-02-03,Tampa Traseira,Dimensional,Aluminio,287.1,Finalizado
+763,2026-12-14,Anel Interno,Rebarba,Ferro Fundido,452.14,Finalizado
+764,2026-04-05,Tampa Dianteira,Inclusao de Areia,Aco,343.29,Retrabalho
+765,2026-03-13,Tampa Dianteira,Dimensional,Aco,400.22,Finalizado
+766,2026-02-08,Caixa de Ligacao,Inclusao de Areia,Aco,461.53,Finalizado
+767,2026-06-03,Anel Interno,Inclusao de Areia,Aco,173.77,Retrabalho
+768,2026-09-07,Anel Externo,Dimensional,Aluminio,340.8,Finalizado
+769,2026-06-11,Anel Interno,Trinca,Aluminio,504.25,Refugo
+770,2026-04-28,Anel Externo,Porosidade,Ferro Fundido,404.71,Refugo
+771,2026-09-16,Anel Interno,Acabamento,Aco,203.15,Finalizado
+772,2026-11-02,Anel Interno,Inclusao de Areia,Aluminio,410.09,Retrabalho
+773,2026-09-25,Carcaca,Acabamento,Ferro Fundido,803.0699999999999,Finalizado
+774,2026-02-23,Tampa Dianteira,Rebarba,Ferro Fundido,184.73000000000002,Retrabalho
+775,2026-08-24,Anel Interno,Dimensional,Aluminio,477.23,Finalizado
+776,2026-08-10,Caixa de Ligacao,Acabamento,Aco,501.91,Finalizado
+777,2026-09-08,Anel Interno,Dimensional,Ferro Fundido,403.84,Finalizado
+778,2026-11-09,Tampa Traseira,Acabamento,Aco,590.82,Retrabalho
+779,2026-04-22,Tampa Dianteira,Porosidade,Aco,482.69,Refugo
+780,2026-09-12,Tampa Traseira,Porosidade,Aco,475.51,Retrabalho
+781,2026-10-30,Tampa Dianteira,Porosidade,Ferro Fundido,561.31,Refugo
+782,2026-07-26,Tampa Traseira,Porosidade,Aco,132.83,Refugo
+783,2026-08-17,Anel Interno,Porosidade,Ferro Fundido,269.48,Finalizado
+784,2026-12-07,Anel Interno,Porosidade,Aco,305.19,Finalizado
+785,2026-03-07,Carcaca,Dimensional,Ferro Fundido,495.2,Finalizado
+786,2026-03-16,Caixa de Ligacao,Inclusao de Areia,Aco,278.38,Retrabalho
+787,2026-04-13,Tampa Traseira,Acabamento,Aluminio,538.66,Retrabalho
+788,2026-07-11,Anel Externo,Porosidade,Aco,503.38,Refugo
+789,2026-09-09,Carcaca,Dimensional,Aco,596.52,Finalizado
+790,2026-08-14,Tampa Traseira,Dimensional,Ferro Fundido,621.97,Finalizado
+791,2026-10-21,Tampa Traseira,Dimensional,Ferro Fundido,581.0699999999999,Finalizado
+792,2026-11-02,Carcaca,Inclusao de Areia,Aco,485.94,Finalizado
+793,2026-04-08,Anel Interno,Acabamento,Aluminio,160.59,Finalizado
+794,2026-12-04,Tampa Traseira,Inclusao de Areia,Aluminio,332.81,Retrabalho
+795,2026-10-13,Anel Interno,Trinca,Ferro Fundido,554.9300000000001,Retrabalho
+796,2026-12-01,Carcaca,Dimensional,Aluminio,490.03,Finalizado
+797,2026-12-13,Anel Interno,Trinca,Aco,416.72,Retrabalho
+798,2026-11-04,Tampa Dianteira,Rebarba,Ferro Fundido,201.88,Retrabalho
+799,2026-09-06,Anel Externo,Porosidade,Aco,461.4,Finalizado
+800,2026-06-15,Tampa de Caixa,Porosidade,Ferro Fundido,596.99,Finalizado
+801,2026-12-01,Tampa Traseira,Inclusao de Areia,Ferro Fundido,538.76,Finalizado
+802,2026-01-30,Caixa de Ligacao,Acabamento,Ferro Fundido,681.99,Finalizado
+803,2026-09-04,Anel Externo,Trinca,Ferro Fundido,604.6600000000001,Finalizado
+804,2026-04-16,Tampa de Caixa,Acabamento,Aluminio,546.7,Refugo
+805,2026-02-20,Anel Interno,Inclusao de Areia,Aco,563.46,Refugo
+806,2026-03-22,Tampa Traseira,Porosidade,Aco,490.74,Finalizado
+807,2026-05-13,Anel Interno,Acabamento,Aco,420.84,Finalizado
+808,2026-10-12,Tampa Dianteira,Acabamento,Ferro Fundido,153.15,Refugo
+809,2026-05-18,Carcaca,Porosidade,Aluminio,506.2,Finalizado
+810,2026-07-03,Tampa Traseira,Trinca,Aco,364.14,Refugo
+811,2026-11-26,Tampa de Caixa,Porosidade,Aluminio,217.22,Retrabalho
+812,2026-09-30,Tampa de Caixa,Acabamento,Ferro Fundido,324.96000000000004,Finalizado
+813,2026-12-06,Tampa Dianteira,Trinca,Aco,578.64,Refugo
+814,2026-03-10,Tampa Dianteira,Trinca,Aluminio,540.44,Refugo
+815,2026-02-03,Tampa Traseira,Porosidade,Ferro Fundido,617.05,Retrabalho
+816,2026-09-19,Anel Interno,Acabamento,Aluminio,273.31,Finalizado
+817,2026-02-22,Caixa de Ligacao,Inclusao de Areia,Aco,57.53,Retrabalho
+818,2026-07-24,Tampa de Caixa,Acabamento,Aco,94.12,Finalizado
+819,2026-05-06,Tampa de Caixa,Dimensional,Ferro Fundido,321.71000000000004,Finalizado
+820,2026-08-23,Tampa Dianteira,Rebarba,Ferro Fundido,158.66,Refugo
+821,2026-02-12,Anel Externo,Inclusao de Areia,Ferro Fundido,159.43,Finalizado
+822,2026-08-28,Tampa Dianteira,Trinca,Aluminio,554.13,Refugo
+823,2026-04-21,Caixa de Ligacao,Inclusao de Areia,Aluminio,438.39,Finalizado
+824,2026-09-06,Anel Interno,Trinca,Aluminio,219.93,Finalizado
+825,2026-05-31,Anel Interno,Trinca,Ferro Fundido,222.95,Finalizado
+826,2026-07-02,Anel Externo,Inclusao de Areia,Aco,331.4,Refugo
+827,2026-12-02,Tampa de Caixa,Trinca,Aco,52.94,Retrabalho
+828,2026-04-05,Tampa Dianteira,Trinca,Aluminio,566.13,Refugo
+829,2026-01-08,Anel Interno,Dimensional,Aluminio,278.15,Refugo
+830,2026-12-26,Caixa de Ligacao,Acabamento,Aco,271.28,Finalizado
+831,2026-07-03,Tampa Traseira,Acabamento,Aco,264.83,Retrabalho
+832,2026-10-08,Carcaca,Rebarba,Aluminio,288.13,Finalizado
+833,2026-07-14,Carcaca,Rebarba,Aluminio,601.0799999999999,Refugo
+834,2026-12-18,Carcaca,Dimensional,Aco,653.15,Retrabalho
+835,2026-07-14,Tampa de Caixa,Rebarba,Ferro Fundido,521.87,Finalizado
+836,2026-06-04,Tampa Dianteira,Inclusao de Areia,Aluminio,126.14,Retrabalho
+837,2026-04-03,Anel Externo,Porosidade,Aco,368.36,Finalizado
+838,2026-06-09,Anel Interno,Porosidade,Aco,363.22,Finalizado
+839,2026-03-02,Tampa Traseira,Porosidade,Aco,527.63,Finalizado
+840,2026-05-02,Caixa de Ligacao,Dimensional,Aco,258.52,Retrabalho
+841,2026-02-20,Tampa Traseira,Dimensional,Ferro Fundido,354.32,Finalizado
+842,2026-10-04,Caixa de Ligacao,Trinca,Aco,390.19,Finalizado
+843,2026-01-05,Tampa de Caixa,Porosidade,Aluminio,398.19,Finalizado
+844,2026-04-02,Tampa Dianteira,Inclusao de Areia,Ferro Fundido,408.11,Retrabalho
+845,2026-06-19,Carcaca,Rebarba,Aco,493.68,Finalizado
+846,2026-11-13,Tampa Dianteira,Inclusao de Areia,Ferro Fundido,421.78,Finalizado
+847,2026-01-22,Tampa de Caixa,Rebarba,Aluminio,523.57,Finalizado
+848,2026-11-22,Anel Externo,Porosidade,Aco,303.64,Refugo
+849,2026-01-01,Anel Externo,Porosidade,Aluminio,566.96,Refugo
+850,2026-05-13,Tampa de Caixa,Porosidade,Aco,327.2,Finalizado
+851,2026-08-21,Caixa de Ligacao,Dimensional,Aco,572.06,Retrabalho
+852,2026-01-12,Anel Interno,Rebarba,Aco,508.06,Finalizado
+853,2026-12-12,Anel Interno,Dimensional,Aco,249.34,Retrabalho
+854,2026-02-15,Caixa de Ligacao,Dimensional,Aco,525.0,Finalizado
+855,2026-02-03,Anel Externo,Acabamento,Ferro Fundido,210.53,Refugo
+856,2026-03-19,Anel Externo,Inclusao de Areia,Aco,558.78,Refugo
+857,2026-08-06,Anel Externo,Inclusao de Areia,Aco,397.4,Finalizado
+858,2026-10-28,Tampa Dianteira,Trinca,Ferro Fundido,179.91,Finalizado
+859,2026-03-14,Anel Externo,Dimensional,Ferro Fundido,504.34,Finalizado
+860,2026-10-09,Tampa Traseira,Rebarba,Ferro Fundido,685.84,Retrabalho
+861,2026-09-06,Carcaca,Acabamento,Ferro Fundido,388.39,Finalizado
+862,2026-02-16,Anel Externo,Acabamento,Ferro Fundido,455.08,Finalizado
+863,2026-05-01,Caixa de Ligacao,Inclusao de Areia,Ferro Fundido,561.29,Finalizado
+864,2026-08-02,Carcaca,Dimensional,Aco,695.64,Refugo
+865,2026-08-27,Tampa Dianteira,Trinca,Aco,277.61,Finalizado
+866,2026-02-25,Caixa de Ligacao,Dimensional,Aluminio,162.29,Finalizado
+867,2026-12-16,Carcaca,Porosidade,Aco,273.29,Finalizado
+868,2026-04-17,Caixa de Ligacao,Dimensional,Aco,368.85,Refugo
+869,2026-11-15,Tampa Dianteira,Porosidade,Ferro Fundido,399.1,Finalizado
+870,2026-02-17,Tampa Traseira,Porosidade,Ferro Fundido,671.81,Finalizado
+871,2026-03-02,Tampa Dianteira,Trinca,Aco,83.33,Retrabalho
+872,2026-12-03,Tampa Dianteira,Rebarba,Aluminio,426.97,Refugo
+873,2026-01-26,Caixa de Ligacao,Inclusao de Areia,Ferro Fundido,163.73,Retrabalho
+874,2026-10-19,Tampa de Caixa,Dimensional,Aco,144.29,Retrabalho
+875,2026-09-14,Anel Interno,Porosidade,Aco,299.47,Retrabalho
+876,2026-01-08,Anel Externo,Dimensional,Aluminio,300.18,Finalizado
+877,2026-04-23,Anel Externo,Rebarba,Aluminio,427.14,Finalizado
+878,2026-12-21,Tampa Traseira,Inclusao de Areia,Ferro Fundido,650.62,Finalizado
+879,2026-09-10,Tampa Traseira,Rebarba,Aluminio,401.47,Finalizado
+880,2026-06-29,Anel Externo,Inclusao de Areia,Aco,574.44,Retrabalho
+881,2026-07-26,Anel Interno,Acabamento,Aco,534.89,Retrabalho
+882,2026-10-30,Anel Externo,Inclusao de Areia,Aluminio,371.47,Finalizado
+883,2026-05-07,Tampa de Caixa,Trinca,Aluminio,508.59,Refugo
+884,2026-02-25,Anel Interno,Rebarba,Aluminio,403.42,Retrabalho
+885,2026-08-02,Tampa Traseira,Porosidade,Aluminio,93.21,Retrabalho
+886,2026-01-14,Carcaca,Acabamento,Ferro Fundido,757.31,Refugo
+887,2026-01-28,Caixa de Ligacao,Trinca,Aluminio,102.2,Finalizado
+888,2026-03-19,Tampa de Caixa,Dimensional,Ferro Fundido,476.75,Retrabalho
+889,2026-08-04,Tampa de Caixa,Rebarba,Aco,436.45,Retrabalho
+890,2026-12-31,Tampa Traseira,Porosidade,Aluminio,86.59,Refugo
+891,2026-06-03,Tampa Traseira,Inclusao de Areia,Ferro Fundido,276.94,Finalizado
+892,2026-01-14,Tampa Dianteira,Porosidade,Aluminio,553.62,Retrabalho
+893,2026-07-06,Tampa de Caixa,Dimensional,Aco,388.97,Finalizado
+894,2026-11-08,Tampa Dianteira,Acabamento,Aco,185.46,Retrabalho
+895,2026-01-07,Tampa Dianteira,Acabamento,Aco,429.87,Refugo
+896,2026-01-03,Caixa de Ligacao,Rebarba,Aluminio,378.23,Finalizado
+897,2026-04-21,Tampa Dianteira,Acabamento,Aluminio,325.87,Refugo
+898,2026-08-26,Anel Interno,Rebarba,Ferro Fundido,686.9,Retrabalho
+899,2026-12-29,Anel Externo,Rebarba,Aco,425.9,Retrabalho
+900,2026-08-27,Carcaca,Rebarba,Aluminio,456.49,Finalizado
+901,2026-10-01,Tampa Traseira,Inclusao de Areia,Aco,490.04,Refugo
+902,2026-10-21,Anel Interno,Trinca,Aco,536.52,Finalizado
+903,2026-08-15,Carcaca,Rebarba,Ferro Fundido,418.87,Refugo
+904,2026-01-15,Tampa de Caixa,Rebarba,Ferro Fundido,260.3,Retrabalho
+905,2026-07-11,Tampa de Caixa,Trinca,Ferro Fundido,268.91999999999996,Retrabalho
+906,2026-04-29,Tampa de Caixa,Porosidade,Ferro Fundido,530.1700000000001,Finalizado
+907,2026-01-28,Anel Interno,Rebarba,Aco,381.67,Retrabalho
+908,2026-07-21,Anel Interno,Inclusao de Areia,Ferro Fundido,490.45,Refugo
+909,2026-02-08,Tampa Traseira,Acabamento,Ferro Fundido,667.43,Retrabalho
+910,2026-09-30,Anel Externo,Acabamento,Ferro Fundido,576.75,Refugo
+911,2026-08-19,Tampa Dianteira,Dimensional,Ferro Fundido,220.37,Refugo
+912,2026-03-27,Tampa de Caixa,Dimensional,Aco,241.13,Finalizado
+913,2026-05-06,Caixa de Ligacao,Acabamento,Ferro Fundido,389.47,Refugo
+914,2026-10-27,Anel Externo,Acabamento,Aco,267.78,Refugo
+915,2026-01-25,Caixa de Ligacao,Inclusao de Areia,Aluminio,418.12,Finalizado
+916,2026-05-25,Tampa Traseira,Trinca,Aco,540.54,Retrabalho
+917,2026-01-13,Tampa Traseira,Dimensional,Aco,218.33,Refugo
+918,2026-07-31,Tampa Traseira,Trinca,Ferro Fundido,453.53,Retrabalho
+919,2026-01-25,Carcaca,Inclusao de Areia,Aluminio,684.1800000000001,Finalizado
+920,2026-03-09,Caixa de Ligacao,Acabamento,Aluminio,278.92,Retrabalho
+921,2026-03-08,Anel Externo,Rebarba,Aluminio,142.46,Retrabalho
+922,2026-08-21,Anel Externo,Trinca,Aluminio,311.22,Refugo
+923,2026-04-19,Anel Interno,Acabamento,Aco,80.37,Finalizado
+924,2026-05-26,Anel Interno,Acabamento,Aluminio,568.31,Retrabalho
+925,2026-04-21,Tampa de Caixa,Porosidade,Aco,91.15,Finalizado
+926,2026-08-16,Anel Interno,Trinca,Aco,291.15,Finalizado
+927,2026-04-21,Tampa Traseira,Rebarba,Aco,341.43,Finalizado
+928,2026-02-03,Anel Externo,Trinca,Aluminio,591.92,Retrabalho
+929,2026-04-21,Caixa de Ligacao,Acabamento,Ferro Fundido,241.31,Retrabalho
+930,2026-09-21,Tampa Traseira,Rebarba,Ferro Fundido,212.94,Retrabalho
+931,2026-08-24,Carcaca,Inclusao de Areia,Aluminio,254.79,Refugo
+932,2026-03-24,Anel Interno,Porosidade,Ferro Fundido,235.56,Refugo
+933,2026-02-11,Tampa Traseira,Acabamento,Ferro Fundido,264.0,Finalizado
+934,2026-04-11,Tampa Traseira,Dimensional,Aco,396.82,Retrabalho
+935,2026-01-06,Carcaca,Dimensional,Aco,370.84000000000003,Retrabalho
+936,2026-06-29,Tampa Dianteira,Porosidade,Aluminio,61.29,Finalizado
+937,2026-10-09,Anel Externo,Inclusao de Areia,Aluminio,504.64,Finalizado
+938,2026-11-16,Caixa de Ligacao,Acabamento,Ferro Fundido,351.08000000000004,Refugo
+939,2026-08-14,Tampa de Caixa,Trinca,Aco,244.53,Finalizado
+940,2026-11-11,Tampa Dianteira,Porosidade,Aluminio,216.36,Refugo
+941,2026-12-31,Anel Interno,Inclusao de Areia,Aluminio,586.46,Finalizado
+942,2026-08-17,Tampa Traseira,Trinca,Aluminio,143.56,Finalizado
+943,2026-10-16,Carcaca,Dimensional,Aluminio,744.03,Finalizado
+944,2026-05-30,Carcaca,Dimensional,Aluminio,677.24,Finalizado
+945,2026-10-04,Anel Externo,Trinca,Aluminio,92.06,Refugo
+946,2026-07-17,Tampa Dianteira,Porosidade,Ferro Fundido,692.7,Retrabalho
+947,2026-03-11,Tampa de Caixa,Dimensional,Aco,199.25,Finalizado
+948,2026-04-22,Anel Externo,Acabamento,Aco,104.22,Retrabalho
+949,2026-01-04,Tampa Traseira,Rebarba,Aluminio,506.12,Finalizado
+950,2026-12-16,Anel Externo,Trinca,Aco,438.67,Retrabalho
+951,2026-11-27,Caixa de Ligacao,Trinca,Aco,389.47,Retrabalho
+952,2026-11-14,Carcaca,Dimensional,Aco,335.78999999999996,Retrabalho
+953,2026-12-16,Carcaca,Porosidade,Aluminio,513.1700000000001,Retrabalho
+954,2026-04-05,Anel Interno,Acabamento,Aluminio,479.31,Finalizado
+955,2026-06-01,Anel Interno,Porosidade,Aco,216.99,Finalizado
+956,2026-11-07,Tampa de Caixa,Inclusao de Areia,Aco,221.43,Finalizado
+957,2026-05-17,Tampa Traseira,Inclusao de Areia,Aluminio,51.73,Finalizado
+958,2026-09-04,Caixa de Ligacao,Rebarba,Ferro Fundido,245.83,Finalizado
+959,2026-08-31,Tampa Dianteira,Dimensional,Aco,531.47,Finalizado
+960,2026-01-31,Anel Externo,Dimensional,Ferro Fundido,392.96,Refugo
+961,2026-02-09,Tampa de Caixa,Dimensional,Aco,591.33,Finalizado
+962,2026-08-17,Tampa Traseira,Rebarba,Ferro Fundido,367.64,Retrabalho
+963,2026-02-05,Anel Interno,Inclusao de Areia,Ferro Fundido,543.35,Refugo
+964,2026-08-11,Anel Externo,Porosidade,Ferro Fundido,305.06,Finalizado
+965,2026-01-06,Anel Interno,Rebarba,Aluminio,250.1,Retrabalho
+966,2026-11-18,Anel Externo,Rebarba,Ferro Fundido,254.9,Refugo
+967,2026-08-08,Tampa Dianteira,Porosidade,Ferro Fundido,340.88,Refugo
+968,2026-03-16,Tampa Traseira,Dimensional,Ferro Fundido,450.98,Refugo
+969,2026-01-04,Anel Externo,Acabamento,Aco,595.48,Finalizado
+970,2026-12-01,Caixa de Ligacao,Porosidade,Ferro Fundido,515.31,Refugo
+971,2026-05-14,Tampa de Caixa,Inclusao de Areia,Aco,159.59,Retrabalho
+972,2026-04-28,Carcaca,Trinca,Ferro Fundido,374.73,Retrabalho
+973,2026-04-04,Caixa de Ligacao,Trinca,Ferro Fundido,219.5,Retrabalho
+974,2026-03-03,Caixa de Ligacao,Rebarba,Aluminio,359.41,Finalizado
+975,2026-07-13,Tampa de Caixa,Trinca,Aco,470.84,Refugo
+976,2026-12-01,Carcaca,Acabamento,Ferro Fundido,867.23,Finalizado
+977,2026-07-22,Caixa de Ligacao,Dimensional,Aco,58.7,Finalizado
+978,2026-01-26,Anel Externo,Inclusao de Areia,Aco,337.52,Finalizado
+979,2026-06-22,Anel Externo,Acabamento,Aluminio,308.98,Finalizado
+980,2026-10-27,Anel Externo,Inclusao de Areia,Aluminio,410.83,Finalizado
+981,2026-05-13,Carcaca,Inclusao de Areia,Aluminio,557.77,Refugo
+982,2026-11-22,Caixa de Ligacao,Dimensional,Aluminio,427.87,Retrabalho
+983,2026-04-28,Carcaca,Rebarba,Aluminio,611.95,Retrabalho
+984,2026-11-20,Anel Externo,Trinca,Aluminio,114.36,Finalizado
+985,2026-10-02,Tampa de Caixa,Dimensional,Aluminio,489.84,Refugo
+986,2026-07-31,Caixa de Ligacao,Acabamento,Aluminio,117.78,Refugo
+987,2026-08-13,Caixa de Ligacao,Rebarba,Ferro Fundido,534.19,Retrabalho
+988,2026-01-20,Anel Interno,Acabamento,Aco,278.88,Refugo
+989,2026-04-23,Anel Interno,Rebarba,Aluminio,332.62,Refugo
+990,2026-05-20,Tampa Dianteira,Acabamento,Aluminio,546.81,Finalizado
+991,2026-02-16,Tampa Traseira,Dimensional,Aco,539.44,Retrabalho
+992,2026-01-01,Anel Interno,Rebarba,Ferro Fundido,599.8199999999999,Finalizado
+993,2026-03-31,Carcaca,Rebarba,Aco,530.5799999999999,Finalizado
+994,2026-05-22,Anel Interno,Inclusao de Areia,Aco,454.93,Retrabalho
+995,2026-11-16,Tampa Dianteira,Inclusao de Areia,Aluminio,332.09,Refugo
+996,2026-02-07,Caixa de Ligacao,Porosidade,Aco,528.28,Retrabalho
+997,2026-10-20,Tampa Dianteira,Acabamento,Aco,271.53,Retrabalho
+998,2026-05-19,Caixa de Ligacao,Inclusao de Areia,Aluminio,583.63,Finalizado
+999,2026-12-22,Tampa de Caixa,Porosidade,Aluminio,562.78,Retrabalho
+1000,2026-11-29,Tampa de Caixa,Inclusao de Areia,Aluminio,457.88,Refugo
