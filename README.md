@@ -1,4 +1,5 @@
 # 📊 Auditoria de Custos de Não-Qualidade (CNQ) na Usinagem
+👉 [Clique aqui para acessar o Dashboard Interativo](https://devfullfelps-py-analise-cnq-analise-usinagem-jtokzj.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
