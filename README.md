@@ -17,9 +17,3 @@ O dashboard calcula a **Perda Real** baseada no status da peça:
 * **KPIs com Metas:** Exibição do prejuízo total e peças refugadas em relação a metas estipuladas pelo setor de gestão.
 * **Análise de Pareto:** Identificação de quais componentes, materiais e defeitos geram mais custos.
 * **Visualização Temporal:** Ordenação lógica dos meses do ano para análise de picos de problemas na produção.
-
-## 🛠️ Como rodar o projeto localmente
-
-1. Clone o repositório:
-```bash
-git clone [https://github.com/DevFullFelps/analise_dados.git](https://github.com/DevFullFelps/analise_dados.git)
